@@ -36,17 +36,17 @@ Pas binnen de tweede helft van het semester werd er in de define fase gewerkt. H
 ## Discovery
 
 ### Doestellingen
-Aangezien de keuze was om te werken rond mensen met Parkinson, vonden we het nodig ook genoeg met hen in contact te staan bij het beslissen van bepaalde ontwerpkeuzes. 
+Aangezien de keuze was om te werken rond mensen met Parkinson, was het nodig om ook genoeg met gebruikers in contact te staan bij het beslissen van bepaalde ontwerpkeuzes. 
 Ons grootste doel was dus om een product te ontwerpen dat een positieve, stimulerende invloed heeft op de gebruikers. Deze positieve invloeden zouden dan zowel wetenschappelijk een voordeel moeten bieden, zoals gehaald uit de literature review, als een positieve invloed op het humeur en gedrag van de gebruiker. 
 
 ### Materiaal & methoden
-Bij het exploreren van de onderzoeksopdracht hebben we aan de hand van een literature review en expert interviews gevonden welke richting we verder in wouden werken. Tijdens het uitvoeren van dit onderzoek begon het bedenken van concepten ook al.
+Bij het exploreren van de onderzoeksopdracht is er aan de hand van een literature review en expert interviews gevonden welke richting er verder in gewerkt kon worden. Tijdens het uitvoeren van dit onderzoek begon het bedenken van concepten ook al.
 
 #### Expert interviews (N=3)
-Expert interviews werden uitgevoerd om _early_ feedback van de gebruikers te verzamelen die helpen bij het bedenken van concepten. Het afnemen van expert interviews hebben geholpen bij het krijgen van een inzicht naar wat onze gebruikers nodig hebben en wat het voor hen aantrekkelijk maakt om zo'n prototype te gebruiken. Wat we vooral uit de interviews hebben gehaald, is dat ze akkoord gaan dat er ruimte is voor een nieuw product. Volgens hen zou het een handig hulpmiddel zijn voor andere mensen met Parkinson, waarbij geen extra tientallen pillen per dag bij nodig zijn.
+Expert interviews werden uitgevoerd om _early_ feedback van de gebruikers te verzamelen die helpen bij het bedenken van concepten. Het afnemen van expert interviews hebben geholpen bij het krijgen van een inzicht naar wat onze gebruikers nodig hebben en wat het voor hen aantrekkelijk maakt om zo'n prototype te gebruiken. Wat er vooral uit de interviews gehaald is, is dat ze akkoord gaan dat er ruimte is voor een nieuw product. Volgens de gebruikers zou het een handig hulpmiddel zijn voor andere mensen met Parkinson, waarbij geen extra tientallen pillen per dag bij nodig zijn.
 
 #### Literatuuronderzoek (N=10)
-Literatuuronderzoek uitvoeren is cruciaal om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte. Via internet researchers konden we tal van relevante informatie terug vinden die ons verder kon helpen bij het opstellen van een goede onderzoeksvraag. Het grootste richtdoel dat we uit de literature reviews konden halen, is om te werken rond muziek. Het is bewezen dat muziek en ritme een positieve invloed hebben op mensen met Parkinson.
+Literatuuronderzoek uitvoeren is cruciaal om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte. Via internet researchers werd tal van relevante informatie gevonden die het project verder kon helpen bij het opstellen van een goede onderzoeksvraag. Het grootste richtdoel dat er uit de literature reviews kon gehaald worden, is om te werken rond muziek. Het is bewezen dat muziek en ritme een positieve invloed hebben op mensen met Parkinson.
 
 #### Conceptselectie
 De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. De keuze om met **CYR** verder te gaan, was vanzelfsprekend. Dit concept sluit het beste aan bij het verlopen onderzoek. In de andere concepten stond muziek meer centraal. Bij **CYR** is het vooral ritme en timing die een oplossing zou moeten geven voor ons project.
@@ -56,18 +56,18 @@ De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. 
 ### Inleiding Definition
 #### Ontwikkelen deelaspecten
 De  modules hebben elk aparte design keuzes. 
-De touchbox moet groot genoeg zijn zodat de gebruiker nog genoeg mobiliteit heeft om comfortabel het product te gebruiken. De keuze om met Makey Makey te werken is _bijna_ noodzakelijk en brengt interessante voordelen mee. We besluiten de prototypes uit mdf en karton te maken voor snel resultaat. De plaatjes moeten geleidend zijn dus zijn metalen plaatjes een perfecte oplossing. De muziekbox wordt ook gemaakt uit karton en mdf. Hierbij is het belangrijkste te onderzoeken aspect de plaatsing, grootte en vorm van de knoppen. We besluiten dit te testen aan de hand van een aantal iteraties op de module. Er zal ook gëexperimenteerd worden met hendels, drukknoppen en touchscreens.
+De touchbox moet groot genoeg zijn zodat de gebruiker nog genoeg mobiliteit heeft om comfortabel het product te gebruiken. De keuze om met Makey Makey te werken is _bijna_ noodzakelijk en brengt interessante voordelen mee. Er werd besloten de prototypes uit mdf en karton te maken voor een snel resultaat. De plaatjes moeten geleidend zijn dus zijn metalen plaatjes een perfecte oplossing. De muziekbox wordt ook gemaakt uit karton en mdf. Hierbij is het belangrijkste te onderzoeken aspect de plaatsing, grootte en vorm van de knoppen. Er werd besloten dit te testen aan de hand van een aantal iteraties op de module. Er zal ook gëexperimenteerd worden met hendels, drukknoppen en touchscreens.
 
 #### Prototypen en testen
 Het testen zal plaats vinden in 2 waves.
-In de eerste wave zullen we testen hoe de interactie wordt ervaren tussen gebruiker en product. We zouden willen achterhalen wat voor soort knoppen het beste passen bij mensen met Parkinson. We testen met drukknoppen (verschillende groottes) en hendels. In de eerste wave testen we ook hoe de gebruikers de interactie met de touchbox ervaaren en welk gevoel ze krijgen wanneer ze de feedback (het drummen) ontvangen. Hiermee kunnen we ook direct testen of het concept "leuk" is voor de testpersonen, aangezien dit een belangrijke factor is voor het succes van dit project.
+In de eerste wave zal er worden getest hoe de interactie wordt ervaren tussen gebruiker en product. Hierbij was de bedoeling te achterhalen wat voor soort knoppen het beste passen bij mensen met Parkinson. er werd getest met drukknoppen (verschillende groottes) en hendels. In de eerste wave werd er ook getest hoe de gebruikers de interactie met de touchbox ervaaren en welk gevoel ze krijgen wanneer ze de feedback (het drummen) ontvangen. Hiermee kon er worden vastgesteld of het concept "leuk" is voor de testpersonen, aangezien dit een belangrijke factor is voor het succes van dit project.
 
-Wat we zullen testen in wave 2 zal afhankelijk zijn van de feedback die we zullen krijgen uit de eerste gebruikstests. Binnen beide waves zouden we wel graag een vergelijking willen maken tussen beide muziekboxen met verschillende groottes. Het is aan de gebruiker een voorkeur van grootte te geven zodat we een beslissing kunnen maken. 
+Wat getest zal worden in wave 2 is afhankelijk van de feedback die uit de wave 1. Binnen beide waves werd er als doel gesteld dat er een vergelijking moest zijn tussen beide muziekboxen met verschillende groottes. Het is aan de gebruiker een voorkeur van grootte te geven zodat er een beslissing kon gemaakt worden. 
 
-Voor het prototypen zullen we werken met mdf, karton, metalen plaatjes en Makey Makey. 
-We zullen de Makey Makey via een simpel arduino bordje verbinden met de metalen plaatjes. De plaatjes vormen een goede elektrische geleiding en biedt meteen een oplossing voor ons prototype. Het bordje wordt op zijn beurt verbonden met een laptop waarop verdere instructies worden gegeven aan de Makey Makey. 
+Voor het prototypen werd er weer gewerkt met mdf, karton, metalen plaatjes en Makey Makey. 
+De Makey Makey zal via een simpel arduino bordje verbonden zijn met de metalen plaatjes. De plaatjes vormen een goede elektrische geleiding en bieden meteen een oplossing voor ons prototype. Het bordje wordt op zijn beurt verbonden met een laptop waarop verdere instructies worden gegeven aan de Makey Makey. 
 
-Hieronder staan de uitgewerkte prototypes die we zullen gebruiken voor het testen van beide waves. 
+Hieronder staan de uitgewerkte prototypes die gebruikt werden voor het testen van beide waves. 
 _Foto 1: Touchpad_;
 _Foto 2: Kleine muziekbox_;
 _Foto 3: Grote muziekbox_
@@ -79,7 +79,7 @@ _Foto 3: Grote muziekbox_
   
 
 ### Resultaten
-Op basis van de uitgevoerde expert interviews halen we de belangrijkste zaken aan.
+Op basis van de uitgevoerde expert interviews worden hier de belangrijkste zaken aangehaald.
 
 | **Naam**               | **Relatie tot patiënt** | **Belangrijkste inzichten**                                                                                                                                                                                                                                                        | **Opmerkingen over muziek en RGM**                                                                                                                                                                              |
 |-------------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -91,7 +91,7 @@ Het literatuuronderzoek geeft een heel breed inzicht over hoe de ziekte zich pre
 
 ## Definition
 ### Doelstellingen
-Vanuit het vooropgestelde onderzoek probeerden we een prototype te bouwen die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstests werd het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback werden de volgende stappen genomen in het ontwerp van een nieuw prototype voor de volgende wave.
+Vanuit het vooropgestelde onderzoek bouwden we een prototype die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstests werd het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback werden de volgende stappen genomen in het ontwerp van een nieuw prototype voor de volgende wave.
 
 ### Materiaal & methoden
 Er werden twee prototypes van de muziekbox met verschillende grootte gemaakt om de voorkeur weer te geven die in elk van de waves werd aangehaald. Aangezien dit enkel diende om te bepalen welk prototype de voorkeur kreeg, werden deze vervaardigt uit karton. De muziekbox, binnen deze fase, diende om een voorgeprogrammeerd liedje te selecteren en vervolgens werd een keuze gemaakt om dit met of zonder percussie te doen.
@@ -123,24 +123,24 @@ Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door 
   <img src="Extra/Makey Makey 2.png" width="32%">
 
 
-Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse objecten kunt omzetten in touchpads en ze kunt gebruiken als invoerapparaten voor een computer. Het werkt op basis van een microcontroller (meestal een Arduino-variant), waarmee je via alligatorclips en geleidende materialen toetsenbord- en muisinvoer kunt simuleren. Op deze manier kunnen we de toetsen van het touchpad linken met de computer om  muziek te imiteren. 
+Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee alledaagse objecten kunnen worden omgezet in touchpads en deze gebruikt kunnen worden als invoerapparaten voor een computer. Het werkt op basis van een microcontroller (meestal een Arduino-variant), waarmee je via alligatorclips en geleidende materialen toetsenbord- en muisinvoer kunt simuleren. Op deze manier werden de toetsen van het touchpad gelinkt met de computer om  muziek te imiteren. 
 
 Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchpad te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
 ### Resultaten
-Uit wave 1 kregen we positieve feedback over het concept. Ze vonden het een leuk "speels" product waarbij ze het gevoel kregen dat ze constant uitgedaagd werden, zeker voor mensen met een verleden zonder spelen van muziek. 
+Na de tests in wave 1 werd er positieve feedback gegeven over het concept. De gebruikers vonden het een leuk "speels" product waarbij ze het gevoel kregen dat ze constant uitgedaagd werden, zeker voor mensen met een verleden zonder spelen van muziek. 
 Ze ervaarden de interactie met de touchbox als positief; wat ze vooral waardeerden, was dat ze niets hoefden in te drukken om feedback te krijgen. Het enige wat ze hoefden te doen, was de plaatjes aanraken. 
 
-Dit kan voor mensen met Parkinson een graad van moeilijkheid zijn, die zo overwonnen kon worden. We kregen als verbeterpunt de kleine delay dat nog zat op het tikken van het plaatje en het geluid. Dit was een te verwachten probleem, aangezien de directe feedback wel noodzakelijk was voor het spelen van muziek. Hier konden we geen directe oplossing voor bedenken en is dus iets dat nog opgelost moet worden.
+Dit kan voor mensen met Parkinson een graad van moeilijkheid zijn, die zo overwonnen kon worden. Als verbeterpunt en puntje van kritiek werd er de kleine delay dat nog zat op het tikken van het plaatje en het geluid gegeven. Dit was een te verwachten probleem, aangezien de directe feedback wel noodzakelijk was voor het spelen van muziek. Hier kon geen directe oplossing voor bedacht worden en is dus iets dat nog opgelost moet worden.
 
-Binnen deze wave hadden we ook de feedback gekregen dat ze graag de mogelijkheid zouden hebben om een soort instructie te krijgen en eventueel het concept uit te testen in spelvorm. Na wat verder overleg besloten we in wave 2 een ‘Guitar Hero’ variant te maken via protopie. We hebben dit protopie bestand gelinkt aan een Ipad en vervolgens de Ipad bevestigd aan de hoofdmodule na wat herschikken van de layout. 
+Binnen deze wave werd er ook de feedback gegeven dat ze graag de mogelijkheid zouden hebben om een soort instructie te krijgen en eventueel het concept uit te testen in spelvorm. Na wat verder overleg werd er besloten in wave 2 een ‘Guitar Hero’ variant te maken via protopie. Dit protopie bestand werd gelinkt aan een Ipad en vervolgens werd de Ipad bevestigd aan de hoofdmodule na wat herschikken van de layout. 
 
-We besloten ook de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd moeten zijn in het uiteindelijke product. We zouden dit verder willen realiseren met een ingebouwd scherm of opzetstukje voor een smartphone/Ipad/tablet, en dit linken aan een app.
+Er werd ook besloten om de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd moeten zijn in het uiteindelijke product. Dit zou later in het project gerealiseerd worden met een ingebouwd scherm of opzetstukje voor een smartphone/Ipad/tablet, en dit vervolgens te linken aan een app.
 
-Het grootste resultaat uit wave 2 was de goede ervaring van de gebruikers met het, via protopie, gemaakte spel. De gebruikers vertelden ons dat het een goede uitdaging was waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid van dit spel werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat we verwacht hadden en niet als probleem zien omdat het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
+Het grootste resultaat uit wave 2 was de goede ervaring van de gebruikers met het, via protopie, gemaakte spel. De gebruikers vertelden dat het een goede uitdaging was waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid van dit spel werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat verwacht werd bij het starten van de Wave en niet als probleem werd gezien omdat het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
 
 Waar de gebruikers wel nog een punt van kritiek op hadden, was de kwaliteit van het spel. De 'icoontjes' waren niet altijd perfect getimed en waren dus soms wat uit ritme. Dit kwam door het gebruik van protopie bij het maken van dit spel, het bleek op deze manier niet zo efficïent om de verplaatsing van de icoontjes correct in te programmeren. 
-Dit zal voor de volgende fase in ons ontwerpproces dus een kwestie moeten zijn waar we op verder moeten werken. Dit gaat ook gepaard met het scherm dat we zouden gebruiken in een finaal ontwerp.
+Dit zal voor de volgende fase in het ontwerpproces dus een kwestie zijn waar verder in verdiept zal worden. Dit gaat ook gepaard met het scherm dat we zouden gebruiken in een finaal ontwerp.
 
 > [!NOTE]
 > De gebruikstests werden uitgevoerd volgens de **Wizard of Oz** methode. _"De Wizard of Oz methode is een gemodereerde onderzoeksmethode waarbij een gebruiker interageert met een interface die autonoom lijkt te zijn, maar (geheel of gedeeltelijk) bestuurd wordt door een mens."_[^2]
@@ -180,16 +180,16 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 - Digitale interfaces
 
 ## Kritische reflectie
-Bij aanvang van dit project waren we goed begonnen. Nadat de groepen werden gevormd, waren we direct aan het overleggen wat we goed vonden en wat we konden verbeteren aan het concept met de feedback gekregen uit de pitch. 
+Bij aanvang van dit project werd er direct veel progressie gemaakt. Nadat de groepen werden gevormd, werd er direct overlegd wat er goed was en wat er nog kon verbeterd worden aan het concept met de feedback gekregen uit de pitch. 
 
-Hierna hadden we gebrainstormd over wat we zouden kunnen doen voor de verschillende waves. We waren overgegaan tot de prototyping fase, dit hebben we misschien wel wat te snel gedaan en had als gevolg dat we tijdens de tests af en toe iets onverwachts meemaakten. Dit waren dingen zoals Protopie dat een update nodig had, een verbinding van de Makey Makey die loskwam etc. Desondanks haalde dit niet weg dat we tevreden waren met de resultaten van de waves. 
+Hierna werd er gebrainstormd over wat er zou kunnen worden getest voor de verschillende waves. Hierna werd een overgang gemaakt tot de prototyping fase, dit werd misschien wel wat te snel gedaan en had als gevolg dat er tijdens de tests af en toe iets onverwachts meemaakten. Dit waren dingen zoals Protopie dat een update nodig had, een verbinding van de Makey Makey die loskwam etc. Desondanks bracht dit de positieve resultaten uit de tests niet neer. 
 
-Waar we het vooral lastig mee hadden, was het contacteren van gebruikers om de waves mee uit te voeren. Door de moeilijke doelgroep was er geen optie waar we alle tests op een gelijk tijdstip zouden kunnen uitvoeren. De gekozen doelgroep heeft nog geen extreme zorg nodig (rusthuis) en is niet altijd even mobiel. De meesten hadden liever een afspraak moment bij hen thuis, wat soms voor moeilijkheden zorgde. 
+Waar er vooral last werd ervaren, was het contacteren van gebruikers om de waves mee uit te voeren. Door de moeilijke doelgroep was er geen optie waar alle tests op een gelijk tijdstip zou kunnen worden uitgevoerd. De gekozen doelgroep heeft nog geen extreme zorg nodig (rusthuis) en is niet altijd even mobiel. De meeste gebruikers hadden liever een afspraak moment bij hen thuis, wat soms voor moeilijkheden zorgde. 
 
-We zijn ook gestart met het apart uitvoeren van wave 1, dit zouden we beter moeten uitgedacht hebben vooraleer momenten vast te zetten
-We besloten na de eerste test van wave 1, de beide waves tegelijkertijd af te nemen. We hebben uiteindelijk met tientallen mensen in contact gestaan, maar vaak woonden ze te ver, vielen ze niet in onze doelgroep, of vonden we geen geschikt moment om af te spreken. Dit had als gevolg dat we 1 test hebben uitgevoerd met iemand die geen Parkinson heeft, maar er wel vaak mee in contact heeft gestaan en ons nuttige feedback heeft kunnen geven.
+Er werd ook gestart met het apart uitvoeren van wave 1, dit zou iets beter moesten worden uitgedacht, vooraleer momenten vast te zetten.
+Er werd ook besloten na de eerste test van wave 1, de beide waves tegelijkertijd af te nemen. Er werd met tientallen mensen in contact genomen, maar vaak woonden ze te ver, vielen ze niet in onze doelgroep, of werd er geen geschikt moment gevonden om af te spreken. Dit had als gevolg dat er 1 test werd uitgevoerd met een persoon die geen Parkinson heeft, maar er wel vaak mee in contact heeft gestaan en ons nuttige feedback heeft kunnen geven.
 
-Deze korte tegenslagen terzijde, verliep de samenwerking en de progressie die we hebben gemaakt in het proces wel goed. We zijn klaar om met de gekregen resultaten naar een volgende fase te gaan. We hebben veel uit geleerd uit dit semester en hebben motivatie gekregen om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te staan met ons wegens de grootte interesse in het concept. In de toekomst zullen zei dan als eersten het volmaakte ontwerp mogen uittesten (indien nog steeds interesse).
+Deze korte tegenslagen terzijde, verliep de samenwerking en de progressie die er werd gemaakt in het proces wel goed. Na her uitvoeren van de waves, is het project klaar om naar een volgende fase te gaan. De waves hebben een grote impact gehad op het project en hebben de nodige motivatie gegeven om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te willen staan, wegens de grootte interesse in het concept. In de toekomst zullen zei dan als eersten het volmaakte ontwerp mogen uittesten (indien nog steeds interesse).
 
 ## Bijlagen
 
