@@ -127,7 +127,7 @@ Gebruikers hadden wel kritiek op de kwaliteit van het spel. De icoontjes waren n
 #### Enkele foto's met de gebruikers
 <p align="left">
   <img src="CYR PICS/TEST.jpg" width="32%">
-  <img src="CYR PICS/TEST2.png" width="32%" height="50%">
+  <img src="CYR PICS/TEST2.png" width="32%">
 
 ### Conclusies & implicaties
 Op basis van de resultaten tijdens de discovery fase en uit de definition fase kunnen we een lijst opstellen met de belangrijkste punten in het (voor)onderzoek:
