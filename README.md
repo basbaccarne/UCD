@@ -191,8 +191,20 @@ Om de interfaces van het touchbox en de muziekbox vast te leggen werden een aant
 Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen).
 
 ### Resultaten
+-
+-
+-
+-
+-
+....
 
 ### Conclusies en implicaties
+-
+-
+-
+-
+-
+....
 
 > [!IMPORTANT]
 > Design requirements
