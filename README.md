@@ -95,7 +95,7 @@ In wave 1 werden de verschillende toetsen van het touchbox aangeduid met hun bij
 
 <p align="left">
   <img src="CYR PICS/Touchbox3.jpeg" width="32%">
-  <img src="CYR PICS/Hoofdbox4.jpeg" width="32%">
+  <img src="CYR PICS/Toofdbox4.jpeg" width="32%">
 
 #### Inspiratie
 Het idee om een muziekspel te maken stamde af op het idee dat leek op Guitar Hero, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. 
