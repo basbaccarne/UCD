@@ -91,6 +91,12 @@ _Foto 3: Grote muziekbox_
   <img src="CYR PICS/Hoofdbox1.jpg" width="32%">
   <img src="CYR PICS/Hoofdbox2.jpg" width="32%">
 
+In wave 1 werden de verschillende toetsen van het touchbox aangeduid met hun bijhorende naam. Door de vele verwarring en beperkte kennis over een drumstel werd er overgeschakeld naar een alternatief met icoontjes. Door het gebruik van icoontjes op de toetsen kreeg de gebruiker meer voeling om het ritme goed na te bootsen.
+
+<p align="left">
+  <img src="CYR PICS/Touchbox3.jpeg" width="32%">
+  <img src="CYR PICS/Hoofdbox4.jpeg" width="32%">
+
 #### Inspiratie
 Het idee om een muziekspel te maken stamde af op het idee dat leek op Guitar Hero, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. 
 
