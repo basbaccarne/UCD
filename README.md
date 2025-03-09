@@ -67,21 +67,12 @@ De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. 
 Vanuit het vooropgestelde onderzoek bouwden we een prototype die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste wave werd het prototype aangepast aan de voorkeur van de gebruiker. Uit deze feedback werden de volgende stappen genomen voor wave 2.
 
 ### Materiaal & methoden
-Er werden twee prototypes van de muziekbox met verschillende grootte gemaakt om de voorkeur weer te geven die in elk van de waves werd aangehaald. De muziekbox heeft als doel om een liedje te selecteren en vervolgens werd een keuze gemaakt om dit met of zonder percussie te doen via een keuzehendel of aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de knop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide muziekboxen werden grote knoppen gemonteerd die de keuze liet geven uit een aantal liedjes. 
+De gebruikstesten zullen plaats vinden in 2 waves. De eerste wave legt de focus op de interactie tussen het prototype (zowel touchbox als muziekbox) en de gebruiker. Hierbij was de bedoeling om enige ongemakken tijdens het gebruik op te sporen en de interactie zo goed mogelijk te optimaliseren. Er werd getest met drukknoppen (verschillende groottes) en hendels waarvan de functies later worden besproken. Wat getest zal worden in wave 2 is afhankelijk van de feedback uit wave 1. Voor het prototypen werd er gebruik gemaakt van mdf, karton, metalen plaatjes en Makey Makey. 
 
-> [!NOTE]
-> Percussie in een liedje verwijst naar het gebruik van muziekinstrumenten die geluid produceren door te slaan, te schudden, te schrapen of te tikken. Deze instrumenten vormen de ritmische basis van een nummer en kunnen variëren van traditionele drums (zoals een snare drum, bass drum of conga) tot andere klankmakers zoals bekkens, shakers, klokkenspelen of zelfs onconventionele objecten (bijvoorbeeld handenklappen of voetenstampen).
+Er zijn twee prototypes van de muziekbox in verschillende formaten gemaakt om de voorkeuren weer te geven die in elk van de waves naar voren kwamen. De muziekbox heeft als doel om een liedje te selecteren en biedt de keuze om dit met of zonder percussie te doen via een keuzehendel of aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de knop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide muziekboxen werden grote knoppen gemonteerd die de keuze liet geven uit een aantal liedjes. 
 
-Het touchpad werd ook vervaardigt uit karton om een idee van grote te krijgen. Op het touchpad werden 9 gelijke metalenplaatjes gemonteerd, 3 plaatjes per 3 rijen. In de toekomst zou kunnen gewerkt worden met minder of meer plaatjes, deze keuze kan nog verandert worden in de loop van de tijd. 
+Vooraf aan de bouw van het touchpad werden de dimensies zodanig gekozen dat er genoeg plaats voor de elektronica en de plaatjes die moeten bevestigd worden. Voor beide waves werden 9 gelijke metalenplaatjes gemonteerd, 3 plaatjes per 3 rijen. In het verdere verloop van dit project zou kunnen gewerkt worden met minder of meer plaatjes, deze keuze kan nog verandert worden in de loop van de tijd. 
 
-#### Prototypen en testen
-Het testen zal plaats vinden in 2 waves.
-De eerste wave legt de focus op de interactie tussen het prototype (zowel touchbox als muziekbox) en de gebruiker. Hierbij was de bedoeling te achterhalen wat voor soort knoppen het beste passen bij mensen met Parkinson. Er werd getest met drukknoppen (verschillende groottes) en hendels waarvan de functies later worden besproken. Wat getest zal worden in wave 2 is afhankelijk van de feedback uit wave 1. 
-
-Voor het prototypen werd er gebruik gemaakt van mdf, karton, metalen plaatjes en Makey Makey. 
-De Makey Makey wordt zo verbonden met de metalen plaatjes aan een laptop om een eerste klank na te bootsen. 
-
-Hieronder staan de uitgewerkte prototypes die gebruikt werden voor het testen van beide waves. 
 _Foto 1: Touchpad_;
 _Foto 2: Kleine muziekbox_;
 _Foto 3: Grote muziekbox_
@@ -91,7 +82,7 @@ _Foto 3: Grote muziekbox_
   <img src="CYR PICS/Hoofdbox1.jpg" width="32%">
   <img src="CYR PICS/Hoofdbox2.jpg" width="32%">
 
-In wave 1 werden de verschillende toetsen van het touchbox aangeduid met hun bijhorende naam. Door de vele verwarring en beperkte kennis over een drumstel werd er overgeschakeld naar een alternatief met icoontjes. Door het gebruik van icoontjes op de toetsen kreeg de gebruiker meer voeling om het ritme goed na te bootsen.
+In wave 1 werden de verschillende toetsen van het touchbox aangeduid met hun bijhorende naam. Door de vele verwarring en beperkte kennis over een drumstel werd er overgeschakeld naar een alternatief met icoontjes in wave 2. Door het gebruik van icoontjes op de toetsen kreeg de gebruiker meer voeling om het ritme goed na te bootsen.
 
 <p align="left">
   <img src="CYR PICS/Touchbox 3.jpeg" width="32%">
