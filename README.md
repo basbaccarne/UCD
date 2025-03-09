@@ -190,6 +190,10 @@ Om de interfaces van het touchbox en de muziekbox vast te leggen werden een aant
 
 Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen).
 
+### Resultaten
+
+### Conclusies en implicaties
+
 > [!IMPORTANT]
 > Design requirements
 > - 1.2 De touchbox en muziekbox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
