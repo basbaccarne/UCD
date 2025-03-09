@@ -188,7 +188,7 @@ De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verd
 Om de interfaces van het touchbox en de muziekbox vast te leggen werden een aantal iteraties gebouwd:
 - Het touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De muziekbox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
-Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#D3-develop-1)
+Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen)
 
 > [!IMPORTANT]
 > Design requirements
