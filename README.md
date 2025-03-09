@@ -62,19 +62,24 @@ De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. 
   <img src="CYR PICS/modules.png" width="32%"> 
 
 ## Definition
-### Inleiding 
-#### Ontwikkelen deelaspecten
-De  modules hebben elk aparte design keuzes. 
-De touchbox moet groot genoeg zijn zodat de gebruiker nog genoeg mobiliteit heeft om comfortabel het product te gebruiken. De keuze om met Makey Makey te werken is _bijna_ noodzakelijk en brengt interessante voordelen mee. Er werd besloten de prototypes uit mdf en karton te maken voor een snel resultaat. De plaatjes moeten geleidend zijn dus zijn metalen plaatjes een perfecte oplossing. De muziekbox wordt ook gemaakt uit karton en mdf. Hierbij is het belangrijkste te onderzoeken aspect de plaatsing, grootte en vorm van de knoppen. Er werd besloten dit te testen aan de hand van een aantal iteraties op de module. Er zal ook gëexperimenteerd worden met hendels, drukknoppen en touchscreens.
+
+### Doelstellingen
+Vanuit het vooropgestelde onderzoek bouwden we een prototype die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste wave werd het prototype aangepast aan de voorkeur van de gebruiker. Uit deze feedback werden de volgende stappen genomen voor wave 2.
+
+### Materiaal & methoden
+Er werden twee prototypes van de muziekbox met verschillende grootte gemaakt om de voorkeur weer te geven die in elk van de waves werd aangehaald. De muziekbox heeft als doel om een liedje te selecteren en vervolgens werd een keuze gemaakt om dit met of zonder percussie te doen via een keuzehendel of aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de knop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide muziekboxen werden grote knoppen gemonteerd die de keuze liet geven uit een aantal liedjes. 
+
+> [!NOTE]
+> Percussie in een liedje verwijst naar het gebruik van muziekinstrumenten die geluid produceren door te slaan, te schudden, te schrapen of te tikken. Deze instrumenten vormen de ritmische basis van een nummer en kunnen variëren van traditionele drums (zoals een snare drum, bass drum of conga) tot andere klankmakers zoals bekkens, shakers, klokkenspelen of zelfs onconventionele objecten (bijvoorbeeld handenklappen of voetenstampen).
+
+Het touchpad werd ook vervaardigt uit karton om een idee van grote te krijgen. Op het touchpad werden 9 gelijke metalenplaatjes gemonteerd, 3 plaatjes per 3 rijen. In de toekomst zou kunnen gewerkt worden met minder of meer plaatjes, deze keuze kan nog verandert worden in de loop van de tijd. 
 
 #### Prototypen en testen
 Het testen zal plaats vinden in 2 waves.
-In de eerste wave zal er worden getest hoe de interactie wordt ervaren tussen gebruiker en product. Hierbij was de bedoeling te achterhalen wat voor soort knoppen het beste passen bij mensen met Parkinson. er werd getest met drukknoppen (verschillende groottes) en hendels. In de eerste wave werd er ook getest hoe de gebruikers de interactie met de touchbox ervaaren en welk gevoel ze krijgen wanneer ze de feedback (het drummen) ontvangen. Hiermee kon er worden vastgesteld of het concept "leuk" is voor de testpersonen, aangezien dit een belangrijke factor is voor het succes van dit project.
+De eerste wave legt de focus op de interactie tussen het prototype (zowel touchbox als muziekbox) en de gebruiker. Hierbij was de bedoeling te achterhalen wat voor soort knoppen het beste passen bij mensen met Parkinson. Er werd getest met drukknoppen (verschillende groottes) en hendels waarvan de functies later worden besproken. Wat getest zal worden in wave 2 is afhankelijk van de feedback uit wave 1. 
 
-Wat getest zal worden in wave 2 is afhankelijk van de feedback die uit de wave 1. Binnen beide waves werd er als doel gesteld dat er een vergelijking moest zijn tussen beide muziekboxen met verschillende groottes. Het is aan de gebruiker een voorkeur van grootte te geven zodat er een beslissing kon gemaakt worden. 
-
-Voor het prototypen werd er weer gewerkt met mdf, karton, metalen plaatjes en Makey Makey. 
-De Makey Makey zal via een simpel arduino bordje verbonden zijn met de metalen plaatjes. De plaatjes vormen een goede elektrische geleiding en bieden meteen een oplossing voor ons prototype. Het bordje wordt op zijn beurt verbonden met een laptop waarop verdere instructies worden gegeven aan de Makey Makey. 
+Voor het prototypen werd er gebruik gemaakt van mdf, karton, metalen plaatjes en Makey Makey. 
+De Makey Makey wordt zo verbonden met de metalen plaatjes aan een laptop om een eerste klank na te bootsen. 
 
 Hieronder staan de uitgewerkte prototypes die gebruikt werden voor het testen van beide waves. 
 _Foto 1: Touchpad_;
@@ -86,24 +91,12 @@ _Foto 3: Grote muziekbox_
   <img src="CYR PICS/Hoofdbox1.jpg" width="32%">
   <img src="CYR PICS/Hoofdbox2.jpg" width="32%">
 
-### Doelstellingen
-Vanuit het vooropgestelde onderzoek bouwden we een prototype die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstests werd het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback werden de volgende stappen genomen in het ontwerp van een nieuw prototype voor de volgende wave.
-
-### Materiaal & methoden
-Er werden twee prototypes van de muziekbox met verschillende grootte gemaakt om de voorkeur weer te geven die in elk van de waves werd aangehaald. Aangezien dit enkel diende om te bepalen welk prototype de voorkeur kreeg, werden deze vervaardigt uit karton. De muziekbox, binnen deze fase, diende om een voorgeprogrammeerd liedje te selecteren en vervolgens werd een keuze gemaakt om dit met of zonder percussie te doen.
-
-> [!NOTE]
-> Percussie in een liedje verwijst naar het gebruik van muziekinstrumenten die geluid produceren door te slaan, te schudden, te schrapen of te tikken. Deze instrumenten vormen de ritmische basis van een nummer en kunnen variëren van traditionele drums (zoals een snare drum, bass drum of conga) tot andere klankmakers zoals bekkens, shakers, klokkenspelen of zelfs onconventionele objecten (bijvoorbeeld handenklappen of voetenstampen).
-
-De keuze om de percussie aan of uit te zetten werd bepaald met een hendel of een aan-/uitknop die bevestigd zijn aan de muziekbox. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de aan-/uitknop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide muziekboxen werden grote knoppen gemonteerd (bij grotere prototype vervangen door opzetstuk) die de keuze liet geven uit voorgeprogrammeerde sets van liedjes. Tijdens wave 1 werd ook gepeild naar de grootte van de knoppen en of ze eventueel te fel aanwezig waren op de muziekbox of niet. (zie [Prototype en testen](#prototypen-en-testen
-))
-
-Het touchpad werd ook vervaardigt uit karton om een idee van grote te krijgen. Op het touchpad werden 9 gelijke metalenplaatjes gemonteerd, 3 plaatjes per 3 rijen. In de toekomst zou kunnen gewerkt worden met minder of meer plaatjes, deze keuze kan nog verandert worden in de loop van de tijd. Binnen deze eerste prototype fasen lag de nadruk niet op het maken van high-fidelity prototypes, maar eerder op het nakomen van de verschillende wensen vanuit de eerste gebruikerstests. 
-
 #### Inspiratie
-Het idee om een muziekspel te maken stamde af op het idee dat leek op Guitar Hero, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. Dit idee stamde uit eerdere feedback verkregen uit wave 2, dit wordt aangehaald in [Resultaten](#Resultaten).
+Het idee om een muziekspel te maken stamde af op het idee dat leek op Guitar Hero, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. 
 
-**CYR** werkt op een gelijkaardige manier. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de muziekbox die corresponderen met de toetsen op het touchpad. Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt er niet opnieuw gestart, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker slaagt **CYR** erin om zowel cognitie als motoriek te blijven trainen.
+In wave 2 werd een spel geprogrammeerd waarin **CYR** op een vergelijkbare manier functioneert. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de muziekbox die corresponderen met de toetsen op het touchpad. In dit geval werd er gebruik gemaakt van een Ipad als scherm.
+
+Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt er niet opnieuw gestart, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker slaagt **CYR** erin om zowel cognitie als motoriek te blijven trainen.
 
 <p align="left">
   <img src="CYR PICS/CYR met Ipad.jpeg" width="32%">
@@ -121,19 +114,11 @@ Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door 
 Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchpad te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
 ### Resultaten
-Na de tests in wave 1 werd er positieve feedback gegeven over het concept. De gebruikers vonden het een leuk "speels" product waarbij ze het gevoel kregen dat ze constant uitgedaagd werden, zeker voor mensen met een verleden zonder spelen van muziek. 
-Ze ervaarden de interactie met de touchbox als positief; wat ze vooral waardeerden, was dat ze niets hoefden in te drukken om feedback te krijgen. Het enige wat ze hoefden te doen, was de plaatjes aanraken. 
+In wave 1 kreeg het concept positieve feedback. Gebruikers vonden het een leuk en uitdagend product, zeker voor mensen zonder ervaring met muziekspelen. Ze waardeerden de interactie met de touchbox en vonden het prettig dat ze geen knoppen hoefden in te drukken - het aanraken van de plaatjes was voldoende om feedback te krijgen. Voor mensen met Parkinson kon dit een uitdaging zijn, maar één die te overwinnen was. Een verbeterpunt was de lichte vertraging tussen het aanraken van het plaatje en het afspelen van het geluid.
 
-Dit kan voor mensen met Parkinson een graad van moeilijkheid zijn, die zo overwonnen kon worden. Als verbeterpunt en puntje van kritiek werd er de kleine delay dat nog zat op het tikken van het plaatje en het geluid gegeven. Dit was een te verwachten probleem, aangezien de directe feedback wel noodzakelijk was voor het spelen van muziek. Hier kon geen directe oplossing voor bedacht worden en is dus iets dat nog opgelost moet worden.
+Het grootste resultaat uit wave 2 was de goede ervaring van de gebruikers met het gemaakte spel. De gebruikers vertelden dat het een goede uitdaging was waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat verwacht werd bij het starten van deze wave en niet als probleem werd gezien omdat het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
 
-Binnen deze wave werd er ook de feedback gegeven dat ze graag de mogelijkheid zouden hebben om een soort instructie te krijgen en eventueel het concept uit te testen in spelvorm. Na wat verder overleg werd er besloten in wave 2 een ‘Guitar Hero’ variant te maken via protopie. Dit protopie bestand werd gelinkt aan een Ipad en vervolgens werd de Ipad bevestigd aan de hoofdmodule na wat herschikken van de layout. 
-
-Er werd ook besloten om de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd moeten zijn in het uiteindelijke product. Dit zou later in het project gerealiseerd worden met een ingebouwd scherm of opzetstukje voor een smartphone/Ipad/tablet, en dit vervolgens te linken aan een app.
-
-Het grootste resultaat uit wave 2 was de goede ervaring van de gebruikers met het, via protopie, gemaakte spel. De gebruikers vertelden dat het een goede uitdaging was waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid van dit spel werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat verwacht werd bij het starten van de Wave en niet als probleem werd gezien omdat het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
-
-Waar de gebruikers wel nog een punt van kritiek op hadden, was de kwaliteit van het spel. De 'icoontjes' waren niet altijd perfect getimed en waren dus soms wat uit ritme. Dit kwam door het gebruik van protopie bij het maken van dit spel, het bleek op deze manier niet zo efficïent om de verplaatsing van de icoontjes correct in te programmeren. 
-Dit zal voor de volgende fase in het ontwerpproces dus een kwestie zijn waar verder in verdiept zal worden. Dit gaat ook gepaard met het scherm dat we zouden gebruiken in een finaal ontwerp.
+Gebruikers hadden wel kritiek op de kwaliteit van het spel. De icoontjes waren niet altijd perfect getimed en vielen soms buiten het ritme. Dit kwam door de beperkingen van ProtoPie, waardoor het lastig was om de beweging van de icoontjes nauwkeurig te programmeren.
 
 > [!NOTE]
 > De gebruikstests werden uitgevoerd volgens de **Wizard of Oz** methode. _"De Wizard of Oz methode is een gemodereerde onderzoeksmethode waarbij een gebruiker interageert met een interface die autonoom lijkt te zijn, maar (geheel of gedeeltelijk) bestuurd wordt door een mens."_[^2]
