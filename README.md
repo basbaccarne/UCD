@@ -71,7 +71,7 @@ De gebruikstesten zullen plaats vinden in 2 waves. De eerste wave legt de focus 
 
 Er zijn twee prototypes van de muziekbox in verschillende formaten gemaakt om de voorkeuren weer te geven die in elk van de waves naar voren kwamen. De muziekbox heeft als doel om een liedje te selecteren en biedt de keuze om dit met of zonder percussie te doen via een keuzehendel of aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de knop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide muziekboxen werden grote knoppen gemonteerd die de keuze liet geven uit een aantal liedjes. 
 
-Vooraf aan de bouw van het touchpad werden de dimensies zodanig gekozen dat er genoeg plaats voor de elektronica en de plaatjes die moeten bevestigd worden. Voor beide waves werden 9 gelijke metalenplaatjes gemonteerd, 3 plaatjes per 3 rijen. In het verdere verloop van dit project zou kunnen gewerkt worden met minder of meer plaatjes, deze keuze kan nog verandert worden in de loop van de tijd. 
+Vooraf aan de bouw van het touchbox werden de dimensies zodanig gekozen dat er genoeg plaats voor de elektronica en de plaatjes die moeten bevestigd worden. In totaal werden 9 gelijke metalen plaatjes gemonteerd, 3 plaatjes per 3 rijen. In het verdere verloop van dit project zou kunnen gewerkt worden met minder of meer plaatjes, deze keuze kan nog verandert worden in de loop van de tijd. 
 
 _Foto 1: Touchpad_;
 _Foto 2: Kleine muziekbox_;
@@ -192,17 +192,17 @@ Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#D3-develo
 
 > [!IMPORTANT]
 > Design requirements
-> - 1.1 De touchbox en muziekbox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
-> - 1.2 Het product is zo klein mogelijk
-> - 2.1 De interface van de hoofdmodule is zodanig ontworpen zodat de interactie
-> - 2.2 Voor elke gebruiker is er een uitdagend niveau beschikbaar
-> - 2.3 De display is simplistisch en makkelijk om te begrijpen
-> - 3.1 Het product geeft duidelijk aan met welke elementen in interactie gegaan kan worden
-> - 3.2 De producthiërarchie geeft duidelijk weer welke elementen de belangrijkste rol spelen in de interactie met het product
-> - 3.3 De touchbox is responsief en heeft een lage latency
-> - 4.1 De knoppen van de touchbox hebben een gepaste grootte
-> - 4.2 Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch
-> - 4.3 De interactie met de muziekbox gebeurt aan de hand van fysieke knoppen
+> - 1.2 De touchbox en muziekbox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
+> - 1.3 Het product is zo klein mogelijk
+> - 2.4 De interface van de hoofdmodule is zodanig ontworpen zodat de interactie
+> - 2.5 Voor elke gebruiker is er een uitdagend niveau beschikbaar
+> - 2.6 De display is simplistisch en makkelijk om te begrijpen
+> - 3.4 Het product geeft duidelijk aan met welke elementen in interactie gegaan kan worden
+> - 3.5 De producthiërarchie geeft duidelijk weer welke elementen de belangrijkste rol spelen in de interactie met het product
+> - 3.6 De touchbox is responsief en heeft een lage latency
+> - 4.3 De knoppen van de touchbox hebben een gepaste grootte
+> - 4.4 Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch
+> - 4.5 De interactie met de muziekbox gebeurt aan de hand van fysieke knoppen
 
 ## Bijlagen
 
