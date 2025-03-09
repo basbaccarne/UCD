@@ -158,8 +158,7 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 > - 3.1 De muziekbox bevat een minimale grootte voor het ondersteunen van een scherm 
 > - 3.2 De muziekbox heeft een functieknop aan de zijkant om het ritme van muziek aan/uit te schakelen
 > - 3.3 De muziekbox bevat verschillende knoppen om een keuze te maken uit verschillende liedjes
-> - 4.1 De draaiknoppen hebben een minimale diameter (4-6cm) om een keuze uit liedjes te maken
-> - 4.2 De toetsen bevinden zich in een dicht gestapeld raster (2x2, 3x2, 3x3) om multi-touch mogelijk te maken
+> - 4.1 De toetsen bevinden zich in een dicht gestapeld raster (2x2, 3x2, 3x3) om multi-touch mogelijk te maken
 
 ## Bill of materials
 
@@ -174,10 +173,10 @@ Bij aanvang van dit project werd er direct veel progressie gemaakt. Na de vormin
 
 Waar er vooral last werd ervaren, was het contacteren van gebruikers om de waves mee uit te voeren. Door de moeilijke doelgroep was er geen optie waar alle tests op een gelijk tijdstip zou kunnen worden uitgevoerd. De gekozen doelgroep heeft nog geen extreme zorg nodig (rusthuis) en is niet altijd even mobiel. De meeste gebruikers hadden liever een afspraak moment bij hen thuis, wat soms voor moeilijkheden zorgde. 
 
-Er werd ook gestart met het apart uitvoeren van wave 1, dit zou iets beter moesten worden uitgedacht, vooraleer momenten vast te zetten.
-Er werd ook besloten na de eerste test van wave 1, de beide waves tegelijkertijd af te nemen. Er werd met tientallen mensen in contact genomen, maar vaak woonden ze te ver, vielen ze niet in onze doelgroep, of werd er geen geschikt moment gevonden om af te spreken. Dit had als gevolg dat er 1 test werd uitgevoerd met een persoon die geen Parkinson heeft, maar er wel vaak mee in contact heeft gestaan en ons nuttige feedback heeft kunnen geven.
+Wave 1 werd apart uitgevoerd, maar dit had beter doordacht moeten worden voordat de momenten werden vastgelegd.
+Er werd ook besloten na de eerste test van wave 1 om de beide waves tegelijkertijd af te nemen. Er werd met een tiental mensen in contact gestaan, maar door een aantal factoren kon er geen gepast moment ingepland worden om het prototype te testen. Dit had als gevolg dat er een test werd uitgevoerd met een persoon die geen Parkinson heeft, maar er wel vaak mee in contact heeft gestaan en nuttige feedback heeft kunnen geven.
 
-Deze korte tegenslagen terzijde, verliep de samenwerking en de progressie die er werd gemaakt in het proces wel goed. Na het uitvoeren van de waves, is het project klaar om naar een volgende fase te gaan. De waves hebben een grote impact gehad op het project en hebben de nodige motivatie gegeven om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te willen staan, wegens de grootte interesse in het concept. In de toekomst zullen zij dan als eersten het volmaakte ontwerp mogen uittesten (indien nog steeds interesse).
+Deze korte tegenslagen terzijde, verliep de samenwerking en de progressie die er werd gemaakt in het proces wel goed. Na het uitvoeren van de waves, is het project klaar om naar een volgende fase te gaan. De waves hebben een grote impact gehad op het project en hebben de nodige motivatie gegeven om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te willen staan, wegens de grootte interesse in het concept. In de toekomst zullen deze mensen de mogelijkheid krijgen om als eersten het volmaakt prototype te testen.
 
 ## Develop 1
 
