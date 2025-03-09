@@ -149,6 +149,18 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 - De gebruikers lieten een goed gevoel achter na afronden van de tests.
 - Gebruikers met duidelijkere symptomen (vb. tremor hand) hadden meer moeite om op een toets te drukken.
 
+> [!IMPORTANT]
+> Design requirements
+> - 1.1 De touchbox bevat een minimale hoogte om elektronica te bewaren
+> - 2.1 De touchbox produceert geluid door een enkele aanraking met één van de toetsen
+> - 2.2 De toetsen zijn groot genoeg om eenvoudig en comfortabel deze aan te tikken
+> - 2.3 Elke toets wordt afgebeeld met een ander symbool
+> - 3.1 De muziekbox bevat een minimale grootte voor het ondersteunen van een scherm 
+> - 3.2 De muziekbox heeft een functieknop aan de zijkant om het ritme van muziek aan/uit te schakelen
+> - 3.3 De muziekbox bevat verschillende knoppen om een keuze te maken uit verschillende liedjes
+> - 4.1 De draaiknoppen hebben een minimale diameter (4-6cm) om een keuze uit liedjes te maken
+> - 4.2 De toetsen bevinden zich in een dicht gestapeld raster (2x2, 3x2, 3x3) om multi-touch mogelijk te maken
+
 ## Bill of materials
 
 - Natuurhout (vooral duurzaam, maar kwaliteitsvol hout)
