@@ -111,7 +111,7 @@ Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door 
 Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchpad te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
 > [!IMPORTANT]
-> Makey Makey maakt gebruik van haptic touch waardoor een simpele aanraking met één van de toetsen een geluid creëert. 
+> Makey Makey maakt gebruik van haptic touch waardoor een simpele aanraking met één van de toetsen al een geluid creëert. 
 
 ### Resultaten
 In wave 1 kreeg het concept positieve feedback. Gebruikers vonden het een leuk en uitdagend product, zeker voor mensen zonder ervaring met muziekspelen. Ze waardeerden de interactie met de touchbox en vonden het prettig dat ze geen knoppen hoefden in te drukken - het aanraken van de plaatjes was voldoende om feedback te krijgen. Voor mensen met Parkinson kon dit een uitdaging zijn, maar één die te overwinnen was. Een verbeterpunt was de lichte vertraging tussen het aanraken van het plaatje en het afspelen van het geluid.
@@ -134,7 +134,7 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 
 #### Prototypes
 - Een spel op basis van muziek zou de motivatie verhogen om hun conditie beter te onderhouden.
-- De groottes van beide muziekboxen en het touchpad zijn optimaal.
+- De groottes van beide muziekboxen en het touchbox zijn optimaal alsook voor de groottes van de toetsen.
 - De vorm van drukknoppen op het touchpad zijn optimaal en groot genoeg van dimensies.
 - Een extra uitdaging zoals meerdere spelvormen zouden het plezier nog meer naar boven halen.
 - De delay op het indrukken van de toetsen was een vaak voorkomende storende factor.
@@ -167,20 +167,47 @@ Er werd ook besloten na de eerste test van wave 1, de beide waves tegelijkertijd
 
 Deze korte tegenslagen terzijde, verliep de samenwerking en de progressie die er werd gemaakt in het proces wel goed. Na her uitvoeren van de waves, is het project klaar om naar een volgende fase te gaan. De waves hebben een grote impact gehad op het project en hebben de nodige motivatie gegeven om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te willen staan, wegens de grootte interesse in het concept. In de toekomst zullen zei dan als eersten het volmaakte ontwerp mogen uittesten (indien nog steeds interesse).
 
+## Develop 1
+
+### Doelstellingen
+De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
+
+### Materiaal & methoden
+Om de interfaces van het touchbox en de muziekbox vast te leggen werden een aantal iteraties gebouwd:
+- Het touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
+- De muziekbox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
+Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#D3-develop-1)
+
+> [!NOTE]
+> Design requirements
+> - 1.1 De touchbox en muziekbox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
+> - 1.2 Het product is zo klein mogelijk
+> - 2.1 De interface van de hoofdmodule is zodanig ontworpen zodat de interactie
+> - 2.2 Voor elke gebruiker is er een uitdagend niveau beschikbaar
+> - 2.3 De display is simplistisch en makkelijk om te begrijpen
+> - 3.1 Het product geeft duidelijk aan met welke elementen in interactie gegaan kan worden
+> - 3.2 De producthiërarchie geeft duidelijk weer welke elementen de belangrijkste rol spelen in de interactie met het product
+> - 3.3 De touchbox is responsief en heeft een lage latency
+> - 4.1 De knoppen van de touchbox hebben een gepaste grootte
+> - 4.2 Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch
+> - 4.3 De interactie met de muziekbox gebeurt aan de hand van fysieke knoppen
+
 ## Bijlagen
 
 **D1: Discovery**
-
 - [Protocol interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ESJYqHmrCHZLsC0qj__VXJ0BjyDkQe4iN9FXYPPxXNy2uQ?e=tfqRws)
 - [Rapport interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EYnefagKg3FOtLsMqfEdwcMBIqPX8TSfu_CDAfIlTkcXZQ?e=Ka2ge1)
 - [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EXIrXCpz-dFAuOz6OB77Z0QBnIgQqzJ2xosTrCaE54sqkw?e=Ui9HQr)
 - [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ETgJmnygez1KvILyP5yb4owB2Ubt0oamoWoxb60TCJ8oPQ?e=Qta01t)
 
 **D2: Definition**
-
 - [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EZP574aSoAhFl09WsWrbi8UBA5_1NxcKcqAjORO0SBlqww?e=72MF4B)
 - [Rapport gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EdqZbkmwm4NGiZS6KD74P3EBFJ-uTSXOdE_JABqfQalWkQ?e=12LJiF)
 - [Storyboard](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EWE_Iul9T3BOiqSTV3mQHsABdU0qXvV47XVcKRbxtR9C3w?e=RbmGrt)
+
+**D3: Develop 1**
+- [Protocol develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EVEtEksqdJJBhZXit1Fg1yQBjQquEJI503QhC8J9cvlPyg?e=fhjMhS)
+- [Rapport develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ES3WNbN0WClOn1nJESBFn6IBWB74uhWHl6Zd6KmwXddXkg?e=VIftTF)
 
 ## Bronnen
 
