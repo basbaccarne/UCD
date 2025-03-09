@@ -158,9 +158,7 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 - Digitale interfaces
 
 ## Kritische reflectie
-Bij aanvang van dit project werd er direct veel progressie gemaakt. Nadat de groepen werden gevormd, werd er direct overlegd wat er goed was en wat er nog kon verbeterd worden aan het concept met de feedback gekregen uit de pitch. 
-
-Hierna werd er gebrainstormd over wat er zou kunnen worden getest voor de verschillende waves. Hierna werd een overgang gemaakt tot de prototyping fase, dit werd misschien wel wat te snel gedaan en had als gevolg dat er tijdens de tests af en toe iets onverwachts meemaakten. Dit waren dingen zoals Protopie dat een update nodig had, een verbinding van de Makey Makey die loskwam etc. Desondanks bracht dit de positieve resultaten uit de tests niet neer. 
+Bij aanvang van dit project werd er direct veel progressie gemaakt. Na de vorming van de groepen werd er direct overlegd wat er goed was en wat er nog kon verbeterd worden aan het concept met de feedback gekregen uit de pitch. Hierna werd er gebrainstormd over wat er zou kunnen worden getest voor de verschillende waves. Een overgang werd gemaakt tot de prototyping fase, dit werd misschien wel wat te snel gedaan en had als gevolg dat er tijdens de tests af en toe iets onverwachts plaatsvond. Dit waren dingen zoals Protopie dat een update nodig had, een verbinding van de Makey Makey die loskwam etc. Desondanks bracht dit de positieve resultaten uit de tests niet neer. 
 
 Waar er vooral last werd ervaren, was het contacteren van gebruikers om de waves mee uit te voeren. Door de moeilijke doelgroep was er geen optie waar alle tests op een gelijk tijdstip zou kunnen worden uitgevoerd. De gekozen doelgroep heeft nog geen extreme zorg nodig (rusthuis) en is niet altijd even mobiel. De meeste gebruikers hadden liever een afspraak moment bij hen thuis, wat soms voor moeilijkheden zorgde. 
 
