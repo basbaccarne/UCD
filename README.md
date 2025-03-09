@@ -45,6 +45,14 @@ Bij het exploreren van de onderzoeksopdracht is er aan de hand van een literatur
 #### Expert interviews (N=3)
 Expert interviews werden uitgevoerd om _early_ feedback van de gebruikers te verzamelen die helpen bij het bedenken van concepten. Het afnemen van expert interviews hebben geholpen bij het krijgen van een inzicht naar wat onze gebruikers nodig hebben en wat het voor hen aantrekkelijk maakt om zo'n prototype te gebruiken. Wat er vooral uit de interviews gehaald is, is dat ze akkoord gaan dat er ruimte is voor een nieuw product. Volgens de gebruikers zou het een handig hulpmiddel zijn voor andere mensen met Parkinson, waarbij geen extra tientallen pillen per dag bij nodig zijn.
 
+Op basis van de interviews worden hier de belangrijkste zaken aangehaald.
+
+| **Naam**               | **Relatie tot patiënt** | **Belangrijkste inzichten**                                                                                                                                                                                                                                                        | **Opmerkingen over muziek en RGM**                                                                                                                                                                              |
+|-------------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Gaston Vermeulen**    | Patiënt (68 jaar)      | - Parkinson sinds zijn 45ste.<br>- Kan nog stappen, maar fijne motoriek is moeilijk<br>- Heeft moeten stoppen met muziek spelen (saxofoon, fluiten), wat hij pijnlijk vond<br>- Open voor nieuwe producten, vooral met muzikale en ritmische aspecten                                  | - Interesse in ritme/melodie-gebaseerde producten<br>- Voelt zich ongemakkelijk bij groepsactiviteiten<br>- Vond het voorgesteld concept leuk, ziet uitdaging als motivatie                                       |
+| **Monique Deurinck**    | Partner van patiënt    | - Mantelzorger van echtgenoot Marcel (10 jaar Parkinson)<br>- Marcel kan niet meer zelfstandig bewegen, woont in een woonzorgcentrum<br>- Merkte de symptomen op in fijne motoriek<br>- Medicatie wisselde vaak, niet altijd effectief                                                | - Marcel vindt zingen in de woonzorgactiviteiten plezierig, minder schaamte in de sociale setting<br>- Skeptisch over effectiviteit van een product, maar ziet potentieel in motivatie en muziek              |
+| **Annabelle Vermeulen** | Zus van patiënt        | - Mantelzorger van Gaston (23 jaar Parkinson)<br>- Helpt met dagelijkse taken, voelt emotionele impact van zijn achteruitgang<br>- Gaston heeft mentale en fysieke moeilijkheden, confronterend voor beiden<br>- Positief over nieuwe oplossingen                                   | - Gaston heeft muzikale achtergrond, voelt geluk bij het spelen van muziek<br>- Gelooft dat muzikale en fysieke acties effectief kunnen zijn, vooral met een motiverende insteek                         |
+
 #### Literatuuronderzoek (N=10)
 Literatuuronderzoek uitvoeren is cruciaal om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte. Via internet researchers werd tal van relevante informatie gevonden die het project verder kon helpen bij het opstellen van een goede onderzoeksvraag. Het grootste richtdoel dat er uit de literature reviews kon gehaald worden, is om te werken rond muziek. Het is bewezen dat muziek en ritme een positieve invloed hebben op mensen met Parkinson.
 
@@ -53,7 +61,8 @@ De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. 
 <p align="left">
   <img src="CYR PICS/modules.png" width="32%"> 
 
-### Inleiding Definition
+## Definition
+### Inleiding 
 #### Ontwikkelen deelaspecten
 De  modules hebben elk aparte design keuzes. 
 De touchbox moet groot genoeg zijn zodat de gebruiker nog genoeg mobiliteit heeft om comfortabel het product te gebruiken. De keuze om met Makey Makey te werken is _bijna_ noodzakelijk en brengt interessante voordelen mee. Er werd besloten de prototypes uit mdf en karton te maken voor een snel resultaat. De plaatjes moeten geleidend zijn dus zijn metalen plaatjes een perfecte oplossing. De muziekbox wordt ook gemaakt uit karton en mdf. Hierbij is het belangrijkste te onderzoeken aspect de plaatsing, grootte en vorm van de knoppen. Er werd besloten dit te testen aan de hand van een aantal iteraties op de module. Er zal ook gëexperimenteerd worden met hendels, drukknoppen en touchscreens.
@@ -76,20 +85,7 @@ _Foto 3: Grote muziekbox_
   <img src="CYR PICS/Touchbox2.jpg" width="32%">
   <img src="CYR PICS/Hoofdbox1.jpg" width="32%">
   <img src="CYR PICS/Hoofdbox2.jpg" width="32%">
-  
 
-### Resultaten
-Op basis van de uitgevoerde expert interviews worden hier de belangrijkste zaken aangehaald.
-
-| **Naam**               | **Relatie tot patiënt** | **Belangrijkste inzichten**                                                                                                                                                                                                                                                        | **Opmerkingen over muziek en RGM**                                                                                                                                                                              |
-|-------------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Gaston Vermeulen**    | Patiënt (68 jaar)      | - Parkinson sinds zijn 45ste.<br>- Kan nog stappen, maar fijne motoriek is moeilijk<br>- Heeft moeten stoppen met muziek spelen (saxofoon, fluiten), wat hij pijnlijk vond<br>- Open voor nieuwe producten, vooral met muzikale en ritmische aspecten                                  | - Interesse in ritme/melodie-gebaseerde producten<br>- Voelt zich ongemakkelijk bij groepsactiviteiten<br>- Vond het voorgesteld concept leuk, ziet uitdaging als motivatie                                       |
-| **Monique Deurinck**    | Partner van patiënt    | - Mantelzorger van echtgenoot Marcel (10 jaar Parkinson)<br>- Marcel kan niet meer zelfstandig bewegen, woont in een woonzorgcentrum<br>- Merkte de symptomen op in fijne motoriek<br>- Medicatie wisselde vaak, niet altijd effectief                                                | - Marcel vindt zingen in de woonzorgactiviteiten plezierig, minder schaamte in de sociale setting<br>- Skeptisch over effectiviteit van een product, maar ziet potentieel in motivatie en muziek              |
-| **Annabelle Vermeulen** | Zus van patiënt        | - Mantelzorger van Gaston (23 jaar Parkinson)<br>- Helpt met dagelijkse taken, voelt emotionele impact van zijn achteruitgang<br>- Gaston heeft mentale en fysieke moeilijkheden, confronterend voor beiden<br>- Positief over nieuwe oplossingen                                   | - Gaston heeft muzikale achtergrond, voelt geluk bij het spelen van muziek<br>- Gelooft dat muzikale en fysieke acties effectief kunnen zijn, vooral met een motiverende insteek                         |
-
-Het literatuuronderzoek geeft een heel breed inzicht over hoe de ziekte zich precies ontwikkeld binnen de hersenen. Op basis van deze inzichten kunnen we verschillende competenties met elkaar combineren om tot meerdere deeloplossingen te komen. Toch zijn de al reeds gebouwde prototypes onafhankelijk van het gedane onderzoek, omdat er bij de keuze uit vorm of grootte vaak een persoonlijke voorkeur aan gebonden is. 
-
-## Definition
 ### Doelstellingen
 Vanuit het vooropgestelde onderzoek bouwden we een prototype die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstests werd het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback werden de volgende stappen genomen in het ontwerp van een nieuw prototype voor de volgende wave.
 
@@ -121,9 +117,6 @@ Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door 
 <p align="left">
   <img src="Extra/Makey Makey 1.png" width="32%">
   <img src="Extra/Makey Makey 2.png" width="32%">
-
-
-Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee alledaagse objecten kunnen worden omgezet in touchpads en deze gebruikt kunnen worden als invoerapparaten voor een computer. Het werkt op basis van een microcontroller (meestal een Arduino-variant), waarmee je via alligatorclips en geleidende materialen toetsenbord- en muisinvoer kunt simuleren. Op deze manier werden de toetsen van het touchpad gelinkt met de computer om  muziek te imiteren. 
 
 Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchpad te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
