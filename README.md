@@ -178,7 +178,7 @@ Om de interfaces van het touchbox en de muziekbox vast te leggen werden een aant
 - De muziekbox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#D3-develop-1)
 
-> [!NOTE]
+> [!IMPORTANT]
 > Design requirements
 > - 1.1 De touchbox en muziekbox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
 > - 1.2 Het product is zo klein mogelijk
