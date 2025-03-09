@@ -126,7 +126,7 @@ Gebruikers hadden wel kritiek op de kwaliteit van het spel. De icoontjes waren n
 
 #### Enkele foto's met de gebruikers
 <p align="left">
-  <img src="CYR PICS/TEST.jpg" width="50%">
+  <img src="CYR PICS/TEST.jpg" width="45%">
   <img src="CYR PICS/TEST2.png" width="32%">
 
 ### Conclusies & implicaties
