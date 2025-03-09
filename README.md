@@ -94,13 +94,13 @@ _Foto 3: Grote muziekbox_
 In wave 1 werden de verschillende toetsen van het touchbox aangeduid met hun bijhorende naam. Door de vele verwarring en beperkte kennis over een drumstel werd er overgeschakeld naar een alternatief met icoontjes. Door het gebruik van icoontjes op de toetsen kreeg de gebruiker meer voeling om het ritme goed na te bootsen.
 
 <p align="left">
-  <img src="CYR PICS/Touchbox3.jpeg" width="32%">
-  <img src="CYR PICS/Toofdbox4.jpeg" width="32%">
+  <img src="CYR PICS/Touchbox 3.jpeg" width="32%">
+  <img src="CYR PICS/Toofdbox 4.jpeg" width="32%">
 
 #### Inspiratie
 Het idee om een muziekspel te maken stamde af op het idee dat leek op Guitar Hero, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. 
 
-In wave 2 werd een spel geprogrammeerd waarin **CYR** op een vergelijkbare manier functioneert. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de muziekbox die corresponderen met de toetsen op het touchpad. In dit geval werd er gebruik gemaakt van een Ipad als scherm.
+In wave 2 werd een spel geprogrammeerd waarin **CYR** op een vergelijkbare manier functioneert. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de muziekbox die corresponderen met de icoontjes op het touchpad. In dit geval werd er gebruik gemaakt van een Ipad als scherm.
 
 Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt er niet opnieuw gestart, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker slaagt **CYR** erin om zowel cognitie als motoriek te blijven trainen.
 
