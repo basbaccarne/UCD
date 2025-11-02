@@ -1,5 +1,5 @@
 # Projecttitel
-*Omschrijving van je concept in 1 zin* 
+*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
 
 🛠️ Built by Naam 1 & Naam 2   
 🔥 Supervised by prof. Bas Baccarne & Yannick Christiaens ([project overview](https://github.com/basbaccarne/human-centered-design))    
