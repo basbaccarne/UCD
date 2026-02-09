@@ -1,5 +1,6 @@
-# Projecttitel
+# Naam van je product
 *Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+*(dit is de 'value promise', die in 1 sterke zin zegt wat je product doet, duidelijk voor iemand die je project nog niet kende)*
 
 🛠️ Built by ``Naam 1`` & ``Naam 2``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
@@ -8,13 +9,13 @@
 *Dag/Maand/Jaar van de laatste update*   
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:   
+(in deze samenvatting moet een lezer de essentie meekrijgen van de volledige GitHub zonder deze te moeten lezen)   
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
+- Wat is het probleem? (cfr. 'wie heeft welk probleem?').
+- Hoe heb je dit onderzocht? Hoe zag jouw proces eruit om tot een oplossing te komen?
+- Wat is/doet/belooft jouw oplossing en hoe lost jouw oplossing het probleem op?
+- (geannoteerde) hero sketch/render/image, zoals bijvoorbeeld.
 <p align="center">
   <img src="img/hero_example.png" width="100%">
 </p>
@@ -22,7 +23,8 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 ## Introductie
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
+Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .    
+Licht toe wat er in de inhoudstafel hieronder terug te vinden is.
 
 ## Inhoudstafel
 
