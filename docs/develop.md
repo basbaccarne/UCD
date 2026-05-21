@@ -222,9 +222,28 @@ Na Develop 1 werd een [nieuw prototype]() ontworpen. Hoewel dit een stap in de g
 
 ## Develop 3
 
+**stap 1 : UX & Service Design Challenges**
+*Emotioneel Ontwerp:*
+In de eerste fase van Develop 3 werd eerst de eerste indruk onderzocht en wat we daar bereikt moest worden om een zo goed mogelijke user experience te bekomen. Dit wordt bepaald door: 
+* Vorm
+* Kleur
+* Lichtintensiteit
+* Geluid
+* Materiaal
 
+Dit werd allemaal onderzocht en uitgewerkt in [dit UX onderzoeksrapport](/reports%20and%20protocols/UX_Felix%20Vanhoutte%20.pdf). 
+Om dit rapport samen te vatten stellen we dat een ronde vorm de voorkeur had tegenover scherpere vormen, dat zachte kleuren zoals blauw, beige en pastel de mentale belasting verminderen en dat te felle kleuren of contrasten zouden botsen met het doel dat vooropgesteld was. Verder bleek het ook dat het nodig was om scherpe geluiden te vermijden om irritatie te vermijden en dat warme materialen (textiel, silicone) menselijk en betrouwbaarder aanvoelen. 
 
+*Service Design:* 
+Om een compleet beeld te schetsen van de baan die een gebruiker aflegt met het ontwerp, werd een customer journey opgesteld. Deze werd in drie fases opgedeeld, namelijk: 
+* Fase 1 : voor het gebruik
+In deze fase merken Ouder dat hun kind het lastig heeft met volledige nachten door te slapen. Misschien doen ze hier onderzoek, vragen ze advies of maken ze gebruik van andere bestaande producten.
+* Fase 2 : tijdens het gebruik
+In plaats van de ouders die tussenkomen bij de verstoorde nachtrust van het kind, detecteert het product geluidssignalen en biedt het ondersteuning. Door het ontwerp van het product ervaren de ouders zo weinig mogelijk cognitieve belasting. Het product heeft echter slechts een bufferwerking en neemt dus niet de ouderrol over.
+* Fase 3 : Na het gebruik
+Na het gebruik valt het kind terug in slaap of verbeteren op langere termijn de routines van het kind. Ouders ervaren een daling in hun stress door minder verstoorde nachten.
 
+Verder werd in deze stap nog een stakeholder mapping en service blueprint gemaakt, dat terug te vinden is in [de rapportering](/reports%20and%20protocols/service_design_Felix%20Vanhoutte.pdf).
 
 **stap 2 :CMF-analyse** 
 Als eerst werd er voor de CMF-analyse gekeken naar de inbreng van de gebruikers en de directe stakeholders. Via de gegeven woordenlijst op Ufora werden voor 4 categoriën verschillende productomschrijvingen aangewezen. 
@@ -259,3 +278,6 @@ Hierna werden de patronen en de productomschrijvingen vergeleken en werden onder
 | 9 |  |  | nylon (PA, slijtvast) |  |  |
 
 Op basis van deze keuzes en de huidige visie van hoe het ontwerp er moet komen uit te zien, werd met Vizcom een [render](/img/render_Vizcom.png) gegenereerd. Aangezien de vorm van deze render goed gepaard ging met de voorafgaande keuzes, werd op basis hiervan een [eigen iteratie](/img/model_NX_JB.png) gemodelleerd in Siemens NX en werd hierop de CMF-strategie toegepast met behulp van ChatGPT om een [nieuwe render](/img/AI_render_blauw.png) te verkrijgen. Deze werd nog eens in [andere kleuren](/img/AI_render_multicolor.png) ook gegenereerd om toch nog eens extra te kunnen vergelijken.
+
+
+**Stap 3 : Prototypevarianten & finale user test**
