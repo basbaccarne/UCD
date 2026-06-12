@@ -1,6 +1,6 @@
-## Develop
+# Develop
 
-## Develop 1
+# Develop 1
 
 ## Analyse en Prioritering
 
@@ -116,31 +116,31 @@ Voor het bepalen van de informatiearchitectuur werd een open card sorting method
 | Microfoon gevoeligheid       |          |           |        |                     | ✓            |
 | Meldingen naar ouders        |          |           |        |                     | ✓            |
 
- ## Diagram / Informatiearchitectuur
+## Diagram / Informatiearchitectuur
 
-- **Slaapprojector Systeem**
-  - **Detectie**
-    - Huildetectie via microfoon
-    - Geluidsanalyse
-    - Slaapstatus kind
-  - **Projectie**
-    - Projector aan/uit
-    - Type projectie
-    - Animatie
-    - Helderheid
-  - **Geluid**
-    - Rustgevende deuntjes
-    - Muziekselectie
-    - White noise
-    - Volume
-  - **Automatische reactie**
-    - Activatie bij huilen
-    - Timer
-    - Nachtmodus
-  - **Instellingen**
-    - Microfoongevoeligheid
-    - Meldingen naar ouders
-    - Systeeminstellingen
+* **Slaapprojector Systeem**
+  * **Detectie**
+    * Huildetectie via microfoon
+    * Geluidsanalyse
+    * Slaapstatus kind
+  * **Projectie**
+    * Projector aan/uit
+    * Type projectie
+    * Animatie
+    * Helderheid
+  * **Geluid**
+    * Rustgevende deuntjes
+    * Muziekselectie
+    * White noise
+    * Volume
+  * **Automatische reactie**
+    * Activatie bij huilen
+    * Timer
+    * Nachtmodus
+  * **Instellingen**
+    * Microfoongevoeligheid
+    * Meldingen naar ouders
+    * Systeeminstellingen
 
 **MVP-definitie**
 
@@ -178,7 +178,7 @@ Voor het slaapprojector-concept werden onder andere oplossingen onderzocht voor 
 
 In deze fase van het ontwerp was het vooral belangrijk om een idee te krijgen in de moeilijkheidsgraad van de werking. Het voornaamste doel was om te kunnen bewijzen dat een audio-input een output kon geven via een projector, en dit is geslaagd. Nu het zeker is dat het mogelijk is om op de huidige componenten verder te bouwen, volgen meer user-tests en gebruikersonderzoeken. De [eerste iteratie](/img/afbeelding_samenstelling_1.JPEG) van de proof of concept bestond uit een custom 3D-print dat de boog van de projector volgt, beschikt met gaten om de raspberry pi module aan te bevestigen. Deze werd met plakband vastgemaakt om een oordeel te kunnen vellen over passing. De [tweede iteratie](/img/afbeelding_samenstelling_2.JPG) kwam na de conclusie dat de passing voldeed en bevestigt de componenten met klitteband.
 
-## Develop 2
+# Develop 2
 
 **Usability Goals**
 
@@ -200,30 +200,30 @@ Waar in dit project wel rekening mee gehouden kan worden zijn de minimale en max
 | min voc | 670         | 375         | 650          |
 | max voc | 2050        | –           | 1860         |
 
-Uit deze resultaten blijkt dat er weinig tot geen rekening gehouden moet worden met deze parameters. Er kan geconcludeerd worden dat een stationaire projector (staand) zonder problemen gebruikt kan worden. 
-
+Uit deze resultaten blijkt dat er weinig tot geen rekening gehouden moet worden met deze parameters. Er kan geconcludeerd worden dat een stationaire projector (staand) zonder problemen gebruikt kan worden.
 
 **Cognitieve & sensoriële ergonomie**
 
-Na Develop 1 werd een [nieuw prototype]() ontworpen. Hoewel dit een stap in de goede richting was, was dit niet volledig geschikt om mee verder te gaan. Het model was te groot en te omvangrijk om esthetische waarde te hebben. Na vorig ontwerp werd een [tweede iteratie](/img/develop_2_prototype.JPEG) ontworpen, dit keer werd besloten om de kabels minder te verstoppen en verder te werken op de support. Met dit prototype werd een praktijktest uitgevoerd om tekortkomingen na te gaan bij gebruikers. Hoewel het project systemisch wel slaagde, waren er 2 grote werkpunten. Zo was de opstarttijd te lang waardoor de *Gulf of Execution* vergroot, aangezien het ontwakingsmoment niet meteen kan opgevangen worden door een reactie. Het tweede grote werkpunt was het storende geluid van de projector. Uit deze frustraties en de andere interacties die uit de gebruikerstest voortkwamen werd een [7 stages of action](/img/seven_stages_of_action.png) opgesteld. Daaruit bleek ook dat een duidelijke signifier voor de power button handig kan zijn om de *Gulf of execution* te verkleinen. 
+Na Develop 1 werd een [nieuw prototype]() ontworpen. Hoewel dit een stap in de goede richting was, was dit niet volledig geschikt om mee verder te gaan. Het model was te groot en te omvangrijk om esthetische waarde te hebben. Na vorig ontwerp werd een [tweede iteratie](/img/develop_2_prototype.JPEG) ontworpen, dit keer werd besloten om de kabels minder te verstoppen en verder te werken op de support. Met dit prototype werd een praktijktest uitgevoerd om tekortkomingen na te gaan bij gebruikers. Hoewel het project systemisch wel slaagde, waren er 2 grote werkpunten. Zo was de opstarttijd te lang waardoor de *Gulf of Execution* vergroot, aangezien het ontwakingsmoment niet meteen kan opgevangen worden door een reactie. Het tweede grote werkpunt was het storende geluid van de projector. Uit deze frustraties en de andere interacties die uit de gebruikerstest voortkwamen werd een [7 stages of action](/img/seven_stages_of_action.png) opgesteld. Daaruit bleek ook dat een duidelijke signifier voor de power button handig kan zijn om de *Gulf of execution* te verkleinen.
 
-
-## Develop 3
+# Develop 3
 
 **stap 1 : UX & Service Design Challenges**
 *Emotioneel Ontwerp:*
-In de eerste fase van Develop 3 werd eerst de eerste indruk onderzocht en wat we daar bereikt moest worden om een zo goed mogelijke user experience te bekomen. Dit wordt bepaald door: 
+In de eerste fase van Develop 3 werd eerst de eerste indruk onderzocht en wat we daar bereikt moest worden om een zo goed mogelijke user experience te bekomen. Dit wordt bepaald door:
+
 * Vorm
 * Kleur
 * Lichtintensiteit
 * Geluid
 * Materiaal
 
-Dit werd allemaal onderzocht en uitgewerkt in [dit UX onderzoeksrapport](/reports%20and%20protocols/UX_Felix%20Vanhoutte%20.pdf). 
-Om dit rapport samen te vatten stellen we dat een ronde vorm de voorkeur had tegenover scherpere vormen, dat zachte kleuren zoals blauw, beige en pastel, de mentale belasting verminderen en dat te felle kleuren of contrasten zouden botsen met het doel dat vooropgesteld was. Verder bleek het ook dat het nodig was om  warme materialen (textiel, silicone) te gebruiken omdat deze menselijk en betrouwbaarder aanvoelen. 
+Dit werd allemaal onderzocht en uitgewerkt in [dit UX onderzoeksrapport](/reports%20and%20protocols/UX_Felix%20Vanhoutte%20.pdf).
+Om dit rapport samen te vatten stellen we dat een ronde vorm de voorkeur had tegenover scherpere vormen, dat zachte kleuren zoals blauw, beige en pastel, de mentale belasting verminderen en dat te felle kleuren of contrasten zouden botsen met het doel dat vooropgesteld was. Verder bleek het ook dat het nodig was om  warme materialen (textiel, silicone) te gebruiken omdat deze menselijk en betrouwbaarder aanvoelen.
 
-*Service Design:* 
-Om een compleet beeld te schetsen van de baan die een gebruiker aflegt met het ontwerp, werd een customer journey opgesteld. Deze werd in drie fases opgedeeld, namelijk: 
+*Service Design:*
+Om een compleet beeld te schetsen van de baan die een gebruiker aflegt met het ontwerp, werd een customer journey opgesteld. Deze werd in drie fases opgedeeld, namelijk:
+
 * Fase 1 : voor het gebruik
 In deze fase merken ouders dat hun kind het lastig heeft met volledige nachten door te slapen. Misschien doen ze hier onderzoek, vragen ze advies of maken ze gebruik van andere bestaande producten.
 * Fase 2 : tijdens het gebruik
@@ -233,8 +233,9 @@ Na het gebruik valt het kind terug in slaap of verbeteren op langere termijn de 
 
 Verder werd in deze stap nog een stakeholder mapping en service blueprint gemaakt, dat terug te vinden is in [de rapportering](/reports%20and%20protocols/service_design_Felix%20Vanhoutte.pdf).
 
-**stap 2 :CMF-analyse** 
-Als eerst werd er voor de CMF-analyse gekeken naar de inbreng van de gebruikers en de directe stakeholders. Via de gegeven woordenlijst op Ufora werden voor 4 categoriën verschillende productomschrijvingen aangewezen. 
+**stap 2 :CMF-analyse**
+Als eerst werd er voor de CMF-analyse gekeken naar de inbreng van de gebruikers en de directe stakeholders. Via de gegeven woordenlijst op Ufora werden voor 4 categoriën verschillende productomschrijvingen aangewezen.
+
 | Categorie | Kenmerk 1     | Kenmerk 2 | Kenmerk 3 | Kenmerk 4 |
 |------------|----------------|------------|------------|------------|
 | **vorm**      | minimalistisch | afgerond   | harmonieus | organisch |
@@ -242,17 +243,21 @@ Als eerst werd er voor de CMF-analyse gekeken naar de inbreng van de gebruikers 
 | **gebruik**   | functioneel    | intuïtief  | toegankelijk | compact |
 | **emotie**    | speels         | neutraal   | elegant    |            |
 
-Hierna werden patronen gezocht uit referentie-producten die gekozen werden. Deze producten zijn geen benchmarks, maar staven enkel de uitstraling en UX die met dit product nagestreefd worden. Uiteindelijk werden [deze foto's](/img/referentiefoto's.pdf) uitgekozen. Deze werden in Claude (Anthropic) geanalyseerd en er werd gevraagd om patronen te zoeken tussen de referentiefoto's om een CMF-strategie op te stellen. 
-# Patronen
-- organisch
-- mat
-- afgerond
-- tastcontrast
-- warm
-- verfijnd
-- kalm 
+Hierna werden patronen gezocht uit referentie-producten die gekozen werden. Deze producten zijn geen benchmarks, maar staven enkel de uitstraling en UX die met dit product nagestreefd worden. Uiteindelijk werden [deze foto's](/img/referentiefoto's.pdf) uitgekozen. Deze werden in Claude (Anthropic) geanalyseerd en er werd gevraagd om patronen te zoeken tussen de referentiefoto's om een CMF-strategie op te stellen.
 
-Hierna werden de patronen en de productomschrijvingen vergeleken en werden onderstaande keuzes gemaakt. 
+## Patronen
+
+* organisch
+
+* mat
+* afgerond
+* tastcontrast
+* warm
+* verfijnd
+* kalm
+
+Hierna werden de patronen en de productomschrijvingen vergeleken en werden onderstaande keuzes gemaakt.
+
 | Nr | C1 (basiskleur) | C2 (accentkleur) | M (materialen) | F1 (visuele afwerking) | F2 (tactiele afwerking) |
 |----|------------------|------------------|----------------|------------------------|--------------------------|
 | 1 | zwart | **blauw**| **PLA (stijf, standaard)** | **mat** | micro-textuur |
@@ -267,5 +272,82 @@ Hierna werden de patronen en de productomschrijvingen vergeleken en werden onder
 
 Op basis van deze keuzes en de huidige visie van hoe het ontwerp er moet komen uit te zien, werd met Vizcom een [render](/img/render_Vizcom.png) gegenereerd. Aangezien de vorm van deze render goed gepaard ging met de voorafgaande keuzes, werd op basis hiervan een [eigen iteratie](/img/model_NX_JB.png) gemodelleerd in Siemens NX en werd hierop de CMF-strategie toegepast met behulp van ChatGPT om een [nieuwe render](/img/AI_render_blauw.png) te verkrijgen. Deze werd nog eens in [andere kleuren](/img/AI_render_multicolor.png) ook gegenereerd om toch nog eens extra te kunnen vergelijken.
 
-
 **Stap 3 : Prototypevarianten & finale user test**
+
+De finale user test werd uitgevoerd om de CMF‑ en UX‑keuzes te valideren.
+Het volledige testprotocol staat in:
+[Finale_UserTestProtocol](/reports%20and%20protocols/Finale_UserTestProtocol_Felix%20Vanhoutte.pdf)
+
+De volledige analyse staat in:
+[Analyse_Finale_Testwave](/reports%20and%20protocols/Analyse%20Finale%20Testwave_Felix_Vanhoutte.pdf)
+
+## Prototypevarianten
+
+**Variant A — Rust & Warmte**
+
+* Roomwitte basiskleur
+* Matte afwerking
+* Afgeronde organische vorm
+* Soft‑touch tactiliteit
+
+**Doel:** maximale rust, toegankelijkheid en comfort.
+
+**Variant B — Technisch & Strak**
+
+* Zwarte behuizing
+* Hoogglans accenten
+* Hardere kunststof
+* Strakkere geometrische lijnen
+
+**Doel:** professionelere, technologischere uitstraling.
+
+## Testopzet
+
+* Individuele interviews
+* Controlled testing context
+* 20–30 minuten per deelnemer
+* Observatie van gedrag, twijfel, stress en sensorische reacties
+* Vergelijkende evaluatie van beide varianten
+
+(Volledige opzet → zie protocol)
+
+## Kernresultaten
+
+**Eerste indruk**
+
+* Variant A werd spontaan als zachter, vriendelijker en rustgevender ervaren.
+* Variant B oogde professioneler, maar voelde afstandelijker.
+
+**Sensorische beleving**
+
+* Matte afwerking → rustgevender
+* Soft‑touch → warmer en comfortabeler
+* Hard plastic → koud en minder kwalitatief
+* Afgeronde vormen → veiliger en toegankelijker
+
+**Emotioneel ontwerp**
+
+Variant A riep rust, kalmte en comfort op.  Variant B riep technologie en precisie op, maar miste warmte.
+
+**Betrouwbaarheid**
+Beide respondenten koppelden betrouwbaarheid aan grip, stabiliteit en consistente feedback.
+Variant A voelde uiteindelijk betrouwbaarder door de tactiele controle.
+
+## Conclusie
+
+Variant A presteerde duidelijk beter op:
+
+* rustgevendheid
+* kalmte
+* visueel comfort
+* tactiel comfort
+* vertrouwen
+
+Daarom werd gekozen om verder te gaan met Variant A, met:
+
+* matte afwerking
+* afgeronde organische vorm
+* lichte neutrale kleur
+* soft‑touch tactiliteit
+
+(Volledige motivatie → zie finale analyse)
