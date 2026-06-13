@@ -248,7 +248,6 @@ Hierna werden patronen gezocht uit referentie-producten die gekozen werden. Deze
 ## Patronen
 
 * organisch
-
 * mat
 * afgerond
 * tastcontrast
