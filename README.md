@@ -15,7 +15,7 @@ Slaapregressie bij jonge kinderen vormt een terugkerend probleem voor gezinnen. 
 
 Het probleem werd onderzocht via gebruikersonderzoek en benchmarkanalyse. Er werden drie semigestructureerde interviews afgenomen met ouders en een grootouder die ervaring hebben met slaapregressie. De interviews focusten op nachtelijke patronen, emotionele impact en het gebruik van bestaande hulpmiddelen en werden geanalyseerd via thematische analyse. Daarnaast werd een benchmark uitgevoerd van tien bestaande producten en diensten rond slaapondersteuning bij jonge kinderen.
 
-Op basis van deze inzichten werd een warm, slaapondersteunend systeem voorgesteld dat inspeelt op emotionele regulatie in plaats van gedragssturing. De oplossing maakt gebruik van subtiele zintuiglijke signalen zoals zacht licht, geluid en ritme, zonder schermen of actieve interactie.
+Op basis van deze inzichten werd een warm, slaapondersteunend systeem voorgesteld dat inspeelt op emotionele regulatie in plaats van gedragssturing. De oplossing maakt gebruik van subtiele zintuiglijke signalen zoals zacht licht, zonder schermen of actieve interactie.
 
 Door automatisch en passief te werken, biedt het systeem het kind een gevoel van nabijheid en veiligheid, terwijl de nood aan nachtelijke ouderlijke tussenkomst vermindert. Zo creëert de oplossing rust voor zowel kind als ouder.
 
@@ -55,27 +55,10 @@ AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen o
 ## Bijlagen
 ### Discovery
 
-* Literatuuronderzoek (N=)
-  * [Protocol](./reports%20and%20protocols/Bottelberghe_Jendrik_Protocol%20literatuuronderzoek%20JB.pdf)
-  * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20literatuuronderzoek%20JB.pdf)
-* Interviews (N=6)
-  * [Protocol_1](./reports%20and%20protocols/Bottelberghe_Jendrik_Interview_protocol_PGGO_dokter%20JB.pdf)
-  * [protocol_2](./reports%20and%20protocols/Bottelberghe_Jendrik_Interview_protocol_PGGO_ouders%20JB.pdf)
-  * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_Rapportering%20interviews%20JB.pdf)
-
-    
-### Definition
-* User testing wave 1 (N=8)
-  * [Protocol](./reports%20and%20protocols/Bottelberghe_Jendrik_onderzoeksprotocol%20ophangsysteem.pdf)
-  * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20TAP.pdf)
-* User testing wave 2 (N=8)
-  * [Protocol](url)
-  * [Rapport](url)
-
 * Literatuuronderzoek 
   * [Protocol](./reports%20and%20protocols/Bottelberghe_Jendrik_Protocol%20literatuuronderzoek%20JB.pdf)
   * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20literatuuronderzoek%20JB.pdf)
-* Benchmarkonderzoek
+* Benchmarks (N=10)
   * [protocol](./reports%20and%20protocols/Benchmarkprotocol_slaapregressie%20Felix.pdf)
   * [rapport](./reports%20and%20protocols/Benchmark_uitvoering_slaapregressieFelix.pdf)
 * Interviews (N=6)
@@ -91,8 +74,12 @@ AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen o
 * User testing wave 2 (N=4)
   * [Protocol_Felix](./reports%20and%20protocols/Onderzoeksprotocol%20spreekfunctie,%20energievoorziening%20(QAP).pdf)
   * [Rapport_Felix](./reports%20and%20protocols/FelixVanhoutteRapporteringQAP.pdf)
-
-
+### Develop
+* [CMF_strategie Jendrik](/reports%20and%20protocols/CMF_strategie_Bottelberghe_Jendrik.pdf)
+* [Final testwave protocol](/reports%20and%20protocols/Finale_UserTestProtocol_Felix%20Vanhoutte.pdf)
+* [finale testwave rapport](/reports%20and%20protocols/Analyse%20Finale%20Testwave_Felix_Vanhoutte.pdf)
+* [service design](/reports%20and%20protocols/service_design_Felix%20Vanhoutte.pdf)
+* [UX](/reports%20and%20protocols/UX_Felix%20Vanhoutte%20.pdf)
 ## Licentie
 
 
