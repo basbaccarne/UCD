@@ -22,7 +22,7 @@
 
 · Verhoogt een geïntegreerde speaker de effectiviteit van het systeem?
 
-· Het rustegevende effect van geluid kan niet gegarandeerd worden en wordt dus niet verde meegenomen. verder zou een auditieve uitvoer voor een audio feedback loop kunnen zorgen.
+· Het rustegevende effect van geluid kan niet gegarandeerd worden en wordt dus niet verder meegenomen. Verder zou een auditieve uitvoer voor een audio feedback loop kunnen zorgen.
 
 1.4. Installatie / ophangen
 

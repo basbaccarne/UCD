@@ -7,5 +7,6 @@ Dit is vooral van toepassing voor de projector. Deze bestaat namelijk uit elektr
  
  * **Stroomvoorziening**: Nu worden de Raspberry Pi en de projector afzonderlijk gevoed. In principe is het relatief eenvoudig om met een transformator het ingangssignaal naar de projector af te tappen naar een voeding die geschikt is voor de Raspberry Pi. Zo zou één kabel allebei de onderdelen van stroom voorzien. 
 
- * **projector vervangen**: Om snel een proof of concept te kunnen doen werd besloten om een draagbare projector te gebruiken. Nu de proof of concept gebeurd is kan de projector eventueel vervangen worden door een LED display. Dit zou de kost enorm verlagen en het systeem vereenvoudigen. 
+ * **Projector vervangen**: Om snel een proof of concept te kunnen doen werd besloten om een draagbare projector te gebruiken. Nu de proof of concept gebeurd is kan de projector eventueel vervangen worden door een LED display. Dit zou de kost enorm verlagen en het systeem vereenvoudigen. 
 
+* **Algoritme**: Als laatste punt van feedback werd er gesproken over een algoritme dat geluiden van kinderen en volwassenen onderscheidt. Dit zou als extra voorwaarde dienen vooraleer de projector aangaat. De microfoon laat een signaal door de treshold, waarna het algoritme nagaat als het signaal nuttig (van een kind) is. 
