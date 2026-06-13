@@ -40,4 +40,9 @@ Gereedschap (3D-printer, boormachine, handgereedschap, schroevendraaier)
 Softwarebestanden (STL-files, Pi-OS, python programmeertaal)
 
 Basisvaardigheden (3D-printen, elektronica, montage, coderen, 3d-modelleren)
+## hardware 
+![connectieschema](/img/connectieschema.png)
+![RPi_setup](/img/RPI_setup.JPEG)
 
+## Code
+![code](/src/kalmeer.py)
