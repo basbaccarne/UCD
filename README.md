@@ -38,8 +38,9 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 2. [Discovery](./docs/discovery.md)
 3. [Definition](./docs/definition.md)
 4. [Develop](./docs/develop.md)
-5. [Design Requirements](./docs/design_requirements.md)
-6. [Bill of materials](./docs/bom.md)
+5. [Deliver](./docs/deliver.md)
+6. [Design Requirements](./docs/design_requirements.md)
+7. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
 

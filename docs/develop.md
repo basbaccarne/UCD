@@ -283,7 +283,7 @@ De volledige analyse staat in:
 
 ## Prototypevarianten
 
-**Variant A — Rust & Warmte**
+**Variant A : Rust & Warmte**
 
 * Roomwitte basiskleur
 * Matte afwerking
@@ -292,7 +292,7 @@ De volledige analyse staat in:
 
 **Doel:** maximale rust, toegankelijkheid en comfort.
 
-**Variant B — Technisch & Strak**
+**Variant B : Technisch & Strak**
 
 * Zwarte behuizing
 * Hoogglans accenten
