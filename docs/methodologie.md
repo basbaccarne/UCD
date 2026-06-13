@@ -1,7 +1,9 @@
 ## Methodologie
 
 
-Het ontwerpproces van dit project volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast [Double Diamond-model](/img/Double_Diamond.jpg). Dit model structureert het proces in vier fasen: Discover, Define, Develop en Deliver. Doorheen alle fasen stond continue terugkoppeling via gebruikersonderzoek en testen centraal, met als doel het ontwerp af te stemmen op de noden van zowel kinderen als ouders.
+Het ontwerpproces van dit project volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast Doubel Diamond-model 
+![Double Diamond-model](/img/Double_Diamond.jpg). 
+Dit model structureert het proces in vier fasen: Discover, Define, Develop en Deliver. Doorheen alle fasen stond continue terugkoppeling via gebruikersonderzoek en testen centraal, met als doel het ontwerp af te stemmen op de noden van zowel kinderen als ouders.
 
 
 
@@ -20,3 +22,8 @@ In wave 2 werd een vereenvoudigd ophangsysteem getest waarbij de projector boven
 
 Deze fase resulteerde in duidelijke ontwerpvereisten en een solide basis voor verdere ontwikkeling.
 
+In de developfase lag de nadruk op een iteratieve onderzoeksmethodologie waarbij analyse, conceptvorming, prototyping en testing elkaar opvolgden. Eerst werden onderzoeksvragen en hypotheses opgesteld rond geluidsdetectie, activatiedrempel, reactiesnelheid, installatie en mogelijke extra functies zoals een speaker. Deze vragen hielpen om de ontwerpbeslissingen te prioriteren en minder relevante pistes, zoals auditieve output, kritisch te evalueren. Vervolgens werd het concept gedeconstrueerd via een storyboard, productarchitectuur, user flow en informatiearchitectuur, zodat de werking van het systeem systematisch in kaart werd gebracht.
+
+Daarna werd een MVP gedefinieerd op basis van de meest noodzakelijke functies: wake detection, automatische activatie en het beperken van bijkomende ruis. Via een morfologische matrix werden verschillende oplossingsrichtingen onderzocht voor detectie, activatie, projectie, intensiteitsregeling en feedback naar ouders. In de build-and-testfase werd deze analyse vertaald naar fysieke prototypes, waarmee getest werd of een audio-input via de Raspberry Pi effectief een projector kon aansturen. In Develop 2 werd de methodologie uitgebreid met usability goals, een beperkte antropometrische analyse en cognitieve en sensoriële ergonomie. Praktijktesten brachten concrete knelpunten naar voren, zoals de lange opstarttijd, het projectorgeluid en het gebrek aan duidelijke signifiers.
+
+In Develop 3 verschoof de onderzoeksmethodologie naar UX- en service-designmethoden, waaronder emotioneel ontwerp, customer journey mapping, stakeholder mapping en service blueprinting. Daarnaast werd een CMF-analyse uitgevoerd op basis van gebruikersinput, referentieproducten en patroonherkenning rond vorm, kleur, materiaal en afwerking. Met prototypevarianten werd vervolgens een finale user test opgezet via individuele interviews, controlled testing en observatie van gedrag, twijfel, stress en sensorische reacties. Deze methodologische aanpak maakte het mogelijk om de technische haalbaarheid, gebruiksvriendelijkheid en emotionele productbeleving stap voor stap te valideren. De uiteindelijke ontwerpkeuze voor Variant A kwam dus niet alleen voort uit esthetische voorkeur, maar uit een combinatie van systematische analyse, prototyping, gebruikerstesten en sensorische evaluatie
