@@ -7,11 +7,11 @@ de slimme lichtprojector die kinderen ondersteunt bij het krijgen van een goede 
 
  
 
-11/05/2026 van de laatste update  
+13/06/2026 van de laatste update  
 
 
 ## Samenvatting
-Slaapregressie bij jonge kinderen tussen 1,5 en 2,5 jaar vormt een terugkerend probleem voor gezinnen. Kinderen worden ’s nachts herhaaldelijk wakker en zoeken nabijheid en emotionele geruststelling, terwijl ouders te maken krijgen met slaaptekort, onzekerheid en een verhoogde mentale belasting. Bestaande oplossingen sluiten onvoldoende aan bij deze leeftijdsfase en vereisen vaak actieve ouderlijke tussenkomst of zorgen voor extra prikkels.
+Slaapregressie bij jonge kinderen vormt een terugkerend probleem voor gezinnen. Kinderen worden ’s nachts herhaaldelijk wakker en zoeken nabijheid en emotionele geruststelling, terwijl ouders te maken krijgen met slaaptekort, onzekerheid en een verhoogde mentale belasting. Bestaande oplossingen sluiten onvoldoende aan bij deze leeftijdsfase en vereisen vaak actieve ouderlijke tussenkomst of zorgen voor extra prikkels.
 
 Het probleem werd onderzocht via gebruikersonderzoek en benchmarkanalyse. Er werden drie semigestructureerde interviews afgenomen met ouders en een grootouder die ervaring hebben met slaapregressie. De interviews focusten op nachtelijke patronen, emotionele impact en het gebruik van bestaande hulpmiddelen en werden geanalyseerd via thematische analyse. Daarnaast werd een benchmark uitgevoerd van tien bestaande producten en diensten rond slaapondersteuning bij jonge kinderen.
 
@@ -22,15 +22,14 @@ Door automatisch en passief te werken, biedt het systeem het kind een gevoel van
 
 
 
-![render](./img/AI_render_blauw.png)
+![render](./img/heroshot.JPG)
 <p align="center">
 </p>
 
 ## Introductie
-De slimme lichtprojector biedt hulp aan kinderen met slaapproblematiek. Het probleem dat ouders midden in de nacht wakker gemaakt worden door hun kinderen dient opgelost te worden met behulp van ons project. De slimme lichtprojector merkt op dat het kind ontwaakt en schiet meteen in actie. De projector schijnt rustgevende, ritmische beelden of strobes en maakt witte ruis om het kind rustiger te maken. De instellingen van de projector kunnen door de ouders ingesteld worden met behulp van een app. Zo kan het product op elk kind afgesteld worden. Het is de bedoeling dat de projector zo gemakkelijk mogelijk te installeren is, zonder veel kabels te moeten verbinden of gaten te moeten boren in het plafond. 
+De slimme lichtprojector biedt hulp aan kinderen met slaapproblematiek. Het probleem dat ouders midden in de nacht wakker gemaakt worden door hun kinderen dient opgelost te worden met behulp van ons project. De slimme lichtprojector merkt op dat het kind ontwaakt en schiet meteen in actie. De projector schijnt rustgevende, ritmische beelden of strobes om het kind rustiger te maken. De instellingen van de projector kunnen door de ouders ingesteld worden met behulp van een app. Zo kan het product op elk kind afgesteld worden. Het is de bedoeling dat de projector zo gemakkelijk mogelijk te installeren is, zonder veel kabels te moeten verbinden of gaten te moeten boren in het plafond. 
 
 
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
 ## Inhoudstafel
 
@@ -44,16 +43,14 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 ## Kritische reflectie
 
-We hebben in deze fase van het ontwerpproces al verschillende waardevolle inzichten verkregen die richting geven aan belangrijke ontwerpkeuzes. Zowel uit de discovery-fase als uit de daaropvolgende gebruikerstesten werd duidelijk welke elementen essentieel zijn voor een effectief en rustgevend slaapondersteunend systeem. Zo bevestigden de interviews en benchmarkstudie dat slaapregressie bij jonge kinderen primair een probleem is van emotionele regulatie en nabijheidsbehoefte, en dat bestaande oplossingen onvoldoende aansluiten bij deze specifieke leeftijdsgroep. De gebruikerstesten met het ophangsysteem, de spreekfunctie en de energievoorziening brachten bovendien concrete frictiepunten aan het licht rond veiligheid, installatiegemak, voorspelbaarheid en betrouwbaarheid in een nachtelijke context.
+In de loop van dit project is er sprake geweest van ups en downs. De start van het proces ging niet zo vlot als wat later nodig bleek. Met een meer methodische aanpak tijdens de definition en discovery fases, waren we in de latere fases vlotter van start kunnen gaan. Eens we echt konden beginnen met het praktische aspect van het proces ging alles wel in de goede richting. De belangrijkste design requirements zijn tot een goed einde gebracht, terwijl we ook sommige achterwege lieten door nieuwe inzichten. Hoewel de app simulatie op Figma in het begin van het ontwerpproces een groot deel leek te zijn, werd dit later naar de achtergrond geschoven. Dit vooral omdat dit minder prioriteit en nut leek te hebben dan voordien gedacht.
 
-Tegelijkertijd zijn er nog verschillende elementen waarin we ons verder willen verdiepen. Zo blijft de vraag open hoe het ophangsysteem even veilig en stabiel kan worden ontworpen zonder invasieve installatie zoals boren, en hoe dit op een intuïtieve manier kan worden gecommuniceerd naar ouders. Ook de automatische en passieve activatie van de spreekfunctie tijdens de nacht vraagt verdere uitwerking, zowel technisch als in termen van gebruikservaring en controle. Daarnaast is het nodig om de voorspelbaarheid van het systeemgedrag verder te versterken, zodat zowel kind als ouder vertrouwen kunnen opbouwen in de werking ervan. Deze open vragen vormen duidelijke ontwerpopportuniteiten voor de volgende iteraties.
+In de kritische reflectie van de discovery fase stond dat het teamwork niet optimaal was, dat afspraken gemaakt werden en dat de verwachtingen van de verdere verloop positief waren. Jammer genoeg was dit niet het geval. Hoewel er in de eerste twee weken een positieve verandering was, bleef dit niet duren. De afstemming en de taakverdeling werd weer eenzijdig. En er traden nog meer vertragingen, onduidelijkheden, herhalingen en overnames op. Ook na meerdere pogingen om te herpakken was dit telkens tijdig. 
 
-We zijn tevreden over de manier waarop het onderzoek tot nu toe werd opgezet en uitgevoerd. De combinatie van semigestructureerde interviews, benchmarkanalyse en taakgebaseerde gebruikerstesten leverde rijke, relevante inzichten op die rechtstreeks konden worden vertaald naar design requirements en ontwerpimplicaties. Ook de keuze om te werken met low-fidelity prototypes en Figma-simulaties bleek effectief om vroegtijdig gebruikservaringen te testen zonder onnodige technische complexiteit.
 
-Het teamwork had in deze fase beter kunnen verlopen. Er waren momenten waarop de afstemming en taakverdeling niet optimaal waren, wat soms leidde tot vertragingen of onduidelijkheden. Dit werd echter onderling besproken en geëvalueerd, en er zijn duidelijke afspraken gemaakt om de samenwerking in de volgende fases gestructureerder en efficiënter aan te pakken. Er wordt rekening gehouden met een betere planning, helderdere communicatie en een evenwichtige verdeling van verantwoordelijkheden. Hierdoor verwachten we dat ons team in de volgende ontwerpfases doelgerichter en coherenter kan werken aan de verdere ontwikkeling van het concept.
 
 ## Noot inzake het gebruik van AI
-AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen opstellen van de protocols met eigen bijsturing, en het herschrijven en grammatisch corrigeren van bepaalde stukken tekst. Artificiële intilligentie werd niet gebruikt als bron, echter biedde het wel hulp bij het uitleggen en sturen van onderzoek.
+AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen opstellen van de protocols met eigen bijsturing, en het herschrijven en grammatisch corrigeren van bepaalde stukken tekst. Artificiële intilligentie werd niet gebruikt als bron, echter biedde het wel hulp bij het uitleggen en sturen van onderzoek. Ook was AI een grote bron van hulp bij het programmeren van de Raspberry Pi.
 
 ## Bijlagen
 ### Discovery
