@@ -1,4 +1,4 @@
-## Overzicht van Design Requirements
+# Overzicht van Design Requirements
 || **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
