@@ -1,15 +1,14 @@
-# Naam van je product
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+# Zablurb
+*Omschrijving van je concept in 1 zin. Bijvoorbeeld: Zablurb (naam van je product), een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.*
 *(dit is de 'value promise', die in 1 sterke zin zegt wat je product doet, duidelijk voor iemand die je project nog niet kende)*
 
 🛠️ Built by ``Naam 1`` & ``Naam 2``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
-🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
-
-*Dag/Maand/Jaar van de laatste update*   
+🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering``   
+👥 [`Overview of all projects`](https://github.com/basbaccarne/human-centered-design)     
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:   
+Max 500 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:   
 (in deze samenvatting moet een lezer de essentie meekrijgen van de volledige GitHub zonder deze te moeten lezen)   
 
 - Wat is het probleem? (cfr. 'wie heeft welk probleem?').
@@ -20,25 +19,19 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
   <img src="img/hero_example.png" width="100%">
 </p>
 
-## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .    
-Licht toe wat er in de inhoudstafel hieronder terug te vinden is.
 
 ## Inhoudstafel
 
-1. [Methodologie](./docs/methodologie.md)
-2. [Discovery](./docs/discovery.md)
-3. [Defintion](./docs/definition.md)
-4. [Design Requirements](./docs/design_requirements.md)
-5. [Bill of materials](./docs/bom.md)
-
-## Kritische reflectie
-Max. 500 woorden
-
-## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+1. [Introductie]((./docs/introductie.md))
+2. [Methodologie](./docs/methodologie.md)
+3. [Discovery](./docs/discovery.md)
+4. [Defintion](./docs/definition.md)
+5. [Design Requirements](./docs/design_requirements.md)
+6. [Bill of materials](./docs/bom.md)
+7. [Conclusie](./docs/conclusie.md)
+8. [Kritische reflectie](./docs/reflectie.md)
+9. [Noot inzake het gebruik van AI](./docs/ai.md)
 
 ## Bijlagen
 ### Discovery
@@ -67,5 +60,4 @@ This repository contains both software and design materials created as part of a
   
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
-## Bronnen
  [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
