@@ -1,0 +1,10 @@
+Kader je project in max. 300 woorden.
+* Wat is het probleem?
+* Hoe groot is dit probleem?
+* Wat is de relevantie van dit probleem?
+* Wat zijn de deelaspecten van dit probleem (wat is erover geweten)?
+* Dit deel leidt toe naar je methododologie waarin je aangeeft hoe je dat probleem op een methodische manier oploste.
+
+Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .   
+
+[^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
