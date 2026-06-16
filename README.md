@@ -23,7 +23,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 ## Inhoudstafel
 
-1. [Introductie]((./docs/introductie.md))
+1. [Introductie](./docs/introductie.md)
 2. [Methodologie](./docs/methodologie.md)
 3. [Discovery](./docs/discovery.md)
 4. [Defintion](./docs/definition.md)
