@@ -7,7 +7,7 @@
 >🌱 Grown at Ghent University, Belgium 🏛️ Industrial Design Engineering   
 >👥 [Overview of all projects](https://github.com/basbaccarne/human-centered-design)
  
->`Laatste update` dd/mm/yyyy
+>📅 `Laatste update:` dd/mm/yyyy
 
 ## Samenvatting
 Max 500 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:   
