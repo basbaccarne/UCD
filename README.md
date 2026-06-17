@@ -1,11 +1,13 @@
 # Zablurb
-*Omschrijving van je concept in 1 zin. Bijvoorbeeld: Zablurb (naam van je product), een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.*
-*(dit is de 'value promise', die in 1 sterke zin zegt wat je product doet, duidelijk voor iemand die je project nog niet kende)*
+*Omschrijving van je concept in 1 zin. Bijvoorbeeld: Zablurb (naam van je product), een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren. Dit is de 'value promise', die in 1 sterke zin zegt wat je product doet, duidelijk voor iemand die je project nog niet kende.*
 
-🛠️ Built by ``Naam 1`` & ``Naam 2``   
-🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
-🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering``   
-👥 [`Overview of all projects`](https://github.com/basbaccarne/human-centered-design)     
+
+> 🛠️ Built by `Naam 1` & `Naam 2`  
+>🔥 Supervised by prof. dr. Bas Baccarne, Yannick Christiaens & Wouter Devriese    
+>🌱 Grown at Ghent University, Belgium 🏛️ Industrial Design Engineering   
+>👥 [Overview of all projects](https://github.com/basbaccarne/human-centered-design)
+ 
+>`Laatste update` dd/mm/yyyy
 
 ## Samenvatting
 Max 500 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:   
