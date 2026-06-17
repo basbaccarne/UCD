@@ -9,9 +9,11 @@ Welke deelvragen moesten hiervoor beantwoord worden?
 ## Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.  
 Leg uit en toon welke prototypes gemaakt werden en hoe deze helpen om de onderzoeksvragen te beantwoorden (benoemen wat je aftoetst & link naar design requirements).   
-Leg uit welke testen werden uitgevoerd.
+Leg uit welke testen werden uitgevoerd.   
+Link naar je volledige protocol voor meer informatie.
 ## Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...).   
+Link naar je volledige rapport voor meer informatie.
 ## Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen. Leg de link met de design requirements.
 
