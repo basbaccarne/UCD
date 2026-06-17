@@ -2,7 +2,7 @@
 
 # Discovery
 Max. 1000 woorden.   
-[!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
+Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
 ## Doestellingen
 Wat wilde je bereiken?   
 Welke deelvragen moesten hiervoor beantwoord worden?
