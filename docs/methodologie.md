@@ -1,3 +1,4 @@
+[← Terug naar hoofdpagina](../)
 # Methodologie
 Max 400 woorden.   
 Beschrijf je methodologie (voor sem 1, enkel SEM1, zie les methodologie).    
@@ -13,4 +14,6 @@ Bekijk zeker ook eens [voorbeelden van eerdere jaren](https://github.com/basbacc
 (voor SEM1 betreft dit uiteraard slechts de helft van deze visualisaties). We bouwen hier in het tweede semester op verder.   
 
 
-Neem hier ook een tijdlijn in op waarin we de evoluties van de prototypes kunnen zien.
+Neem hier ook een tijdlijn in op waarin we de evoluties van de prototypes kunnen zien.   
+
+[← Introductie](introductie.md) · [Discovery →](discovery.md)   
