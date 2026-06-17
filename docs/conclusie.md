@@ -4,4 +4,4 @@
 SEM1: tussentijdse conclusies
 (aan te vullen na semester 2)
 
-[← Discovery](discovery.md) · [Design Requirements →](design_requirements.md)   
+[← Bill of Materials](bom.md) · [Kritische Reflectie →](reflectie.md)   
