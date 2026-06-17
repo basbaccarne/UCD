@@ -14,9 +14,9 @@ Max 500 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 (in deze samenvatting moet een lezer de essentie meekrijgen van de volledige GitHub zonder deze te moeten lezen)   
 
 - Wat is het probleem? (cfr. 'wie heeft welk probleem?').
-- Hoe heb je dit onderzocht? Hoe zag jouw proces eruit om tot een oplossing te komen?
+- Hoe heb je dit onderzocht? Hoe zag jouw proces eruit om tot een oplossing te komen? Als je onderzoeksmethoden vermeldt, geef ook altijd de steekproefgrootte mee (vb. *"Op basis van contextual inquiries (N=5) werden nachtelijke patronen en de emotionele beleving onderzocht."*)
 - Wat is/doet/belooft jouw oplossing en hoe lost jouw oplossing het probleem op?
-- (geannoteerde) hero sketch/render/image, zoals bijvoorbeeld.
+- Geannoteerde hero sketches/renders/images, zoals bijvoorbeeld.
 <p align="center">
   <img src="img/hero_example.png" width="100%">
 </p>
