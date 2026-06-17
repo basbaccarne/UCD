@@ -1,4 +1,4 @@
-[← Terug naar hoofdpagina](../)
+[← Terug naar hoofdpagina](../README.md)
 
 # Discovery
 Max. 1000 woorden.   
