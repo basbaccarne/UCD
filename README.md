@@ -36,10 +36,10 @@ Maak gebruik van bronverwijzingen bij claims die je maakt (vb. een stelling als 
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
+* Literatuuronderzoek (N=x)   
   * [Protocol](url)
-  * [Rapport](url)
-* Interviews (N=x)
+  * [Rapport](url)   
+* Interviews (N=x)   
   * [Protocol](url)
   * [Rapport](url)
     
