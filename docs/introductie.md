@@ -1,3 +1,4 @@
+[← Terug naar hoofdpagina](../)   
 # Introductie
 Kader je project in max. 300 woorden.
 * Wat is het probleem?
@@ -9,4 +10,7 @@ Kader je project in max. 300 woorden.
 
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .   
 
+
+[← Terug naar hoofdpagina](../) · [Methodologie →](methodologie.md)
 [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+
