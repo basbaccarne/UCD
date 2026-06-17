@@ -1,7 +1,7 @@
 [← Terug naar hoofdpagina](../README.md)
 
 # Introductie
-Kader je project in max. 300 woorden.
+Kader je project in max. 500 woorden.
 * Wat is het probleem?
 * Hoe groot is dit probleem?
 * Wat is de relevantie van dit probleem?
