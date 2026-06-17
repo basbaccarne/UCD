@@ -1,3 +1,5 @@
+[← Terug naar hoofdpagina](../)
+
 # Discovery
 Max. 1000 woorden.   
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
@@ -11,3 +13,5 @@ Leg uit welke onderzoeksmethoden werden uitgevoerd en hoe dit werd aangepakt (li
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...) (link door naar het rapport voor meer detail).
 ## Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen. Meg de link met de design requirements.
+
+[← Methodologie](methodologie.md) · [Definition →](definition.md)   
