@@ -1,3 +1,5 @@
+[← Terug naar hoofdpagina](../README.md)
+
 # Overzicht van Design Requirements
 || **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
 |ID|Design Requirement|Source|Status|
@@ -7,3 +9,5 @@
 |1.2|De gebruiker kan ... |[2.1 User test](url)|⚠️|
 |**Deelaspect**|
 |2.1|De pods ... |[2.1 User test](url)|✅|
+
+[← Definition](definition.md) · [Bill of Materials →](bom.md)   
