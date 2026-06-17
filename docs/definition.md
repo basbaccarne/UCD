@@ -2,7 +2,7 @@
 
 # Definition
 Max. 1000 woorden.    
-[!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
+Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
 ## Doestellingen
 Wat wilde je bereiken in deze fase?    
 Welke deelvragen moesten hiervoor beantwoord worden?
@@ -15,6 +15,6 @@ Link naar je volledige protocol voor meer informatie.
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...).   
 Link naar je volledige rapport voor meer informatie.
 ## Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen. Leg de link met de design requirements.
+Definieer de belangrijkste designbeslissingen. Leg de link met de [design requirements](design_requirements.md).
 
 [← Discovery](discovery.md) · [Design Requirements →](design_requirements.md)   
