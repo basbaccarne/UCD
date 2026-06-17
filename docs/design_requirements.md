@@ -15,4 +15,4 @@
 |:---|:---|:---|:---:|
 |2.1|De pods ... |[2.1 User test](url)|✅|
 
-[← Conclusie](conclusie.md) · [Bill of Materials →](bom.md)   
+[← Design Requirements](design_requirements.md) · [Bill of Materials →](bom.md)   
