@@ -1,2 +1,4 @@
 # Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+Licht in detail toe hoe je AI gebruikte in dit project, inclusief welke tools (gebruik links om naar de tools te verwijzen) en voor welke deelaspecten.
+Lich ook toe wat de rol van de ontwerper was in relatie tot de gebruikte tools.
+Integreer een kritische reflectie in deze toelichting.
