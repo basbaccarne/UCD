@@ -21,7 +21,7 @@ Max 500 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
   <img src="img/hero_example.png" width="100%">
 </p>
 
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .    
+Maak gebruik van bronverwijzingen bij claims die je maakt (vb. een stelling als *"Slaapregressie bij jonge kinderen vormt een terugkerend probleem voor gezinnen."*) ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .    
 
 ## Inhoudstafel
 
