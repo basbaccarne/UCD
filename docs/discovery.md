@@ -12,6 +12,6 @@ Leg uit welke onderzoeksmethoden werden uitgevoerd en hoe dit werd aangepakt (li
 ## Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...) (link door naar het rapport voor meer detail).
 ## Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen. Meg de link met de design requirements.
+Definieer de belangrijkste designbeslissingen. Leg de link met de [design requirements](design_requirements.md).
 
 [← Methodologie](methodologie.md) · [Definition →](definition.md)   
