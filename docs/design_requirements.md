@@ -1,13 +1,18 @@
 [← Terug naar hoofdpagina](../README.md)
 
 # Overzicht van Design Requirements
-|| **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
+> ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
+
+
+**Vormgeving**
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
-|**Algemeen**|
 |1.1|Het product ... |[1.1 Expert interview](url)|❌|
 |1.2|De gebruiker kan ... |[2.1 User test](url)|⚠️|
-|**Deelaspect**|
+
+**Veiligheid**
+|ID|Design Requirement|Source|Status|
+|:---|:---|:---|:---:|
 |2.1|De pods ... |[2.1 User test](url)|✅|
 
 [← Definition](definition.md) · [Bill of Materials →](bom.md)   
