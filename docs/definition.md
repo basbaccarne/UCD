@@ -17,4 +17,4 @@ Link naar je volledige rapport voor meer informatie.
 ## Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen. Leg de link met de [design requirements](design_requirements.md).
 
-[← Discovery](discovery.md) · [Design Requirements →](design_requirements.md)   
+[← Discovery](discovery.md) · [Conclusie →](conclusie.md)   
