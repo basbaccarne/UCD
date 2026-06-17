@@ -15,7 +15,7 @@ Max 500 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 
 - Wat is het probleem? (cfr. 'wie heeft welk probleem?').
 - Hoe heb je dit onderzocht? Hoe zag jouw proces eruit om tot een oplossing te komen? Als je onderzoeksmethoden vermeldt, geef ook altijd de steekproefgrootte mee (vb. *"Op basis van contextual inquiries (N=5) werden nachtelijke patronen en de emotionele beleving onderzocht."*)
-- Wat is/doet/belooft jouw oplossing en hoe lost jouw oplossing het probleem op?
+- Wat is/doet/belooft jouw oplossing en hoe lost jouw oplossing het probleem op? Zorg dat een leek begrijpt wat je product is en welke functies het heeft (hoe maakt houw product de value promise waar?).
 - Geannoteerde hero sketches/renders/images, zoals bijvoorbeeld.
 <p align="center">
   <img src="img/hero_example.png" width="100%">
