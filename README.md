@@ -28,9 +28,9 @@ Maak gebruik van bronverwijzingen bij claims die je maakt (vb. een stelling als 
 2. [Methodologie](./docs/methodologie.md)
 3. [Discovery](./docs/discovery.md)
 4. [Definition](./docs/definition.md)
-5. [Design Requirements](./docs/design_requirements.md)
-6. [Bill of materials](./docs/bom.md)
-7. [Conclusie](./docs/conclusie.md)
+5. [Conclusie](./docs/conclusie.md)
+6. [Design Requirements](./docs/design_requirements.md)
+7. [Bill of materials](./docs/bom.md)
 8. [Kritische reflectie](./docs/reflectie.md)
 9. [Noot inzake het gebruik van AI](./docs/ai.md)
 
