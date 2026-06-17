@@ -4,4 +4,4 @@
 SEM1: tussentijdse conclusies
 (aan te vullen na semester 2)
 
-[← Bill of Materials](bom.md) · [Kritische Reflectie →](reflectie.md)   
+[← Definition](definition.md) · [Bill of Materials →](bom.md)   
