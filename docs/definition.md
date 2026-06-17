@@ -1,3 +1,5 @@
+[← Terug naar hoofdpagina](../)
+
 # Definition
 Max. 1000 woorden.    
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
@@ -12,3 +14,5 @@ Leg uit welke testen werden uitgevoerd.
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ## Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen. Leg de link met de design requirements.
+
+[← Discovery](discovery.md) · [Develop I →](develop1.md)   
