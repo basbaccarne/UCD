@@ -1,4 +1,4 @@
-[← Terug naar hoofdpagina](../)
+[← Terug naar hoofdpagina](..)
 # Methodologie
 Max 400 woorden.   
 Beschrijf je methodologie (voor sem 1, enkel SEM1, zie les methodologie).    
