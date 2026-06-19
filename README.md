@@ -34,16 +34,6 @@ Maak gebruik van bronverwijzingen bij claims die je maakt (vb. een stelling als 
 8. [Kritische reflectie](./docs/reflectie.md)
 9. [Noot inzake het gebruik van AI](./docs/ai.md)
 10. [Bijlagen](./docs/bijlagen.md)
-
-
-## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
-
-This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
-
-- **Software and code:** [MIT License](./LICENSE-MIT)  
-- **Design, documentation, CAD, and media:** [CC BY 4.0 License](./LICENSE)
-  
-You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
+11. [Licentie](/docs/licentie.md)
 
  [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
