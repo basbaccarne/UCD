@@ -33,23 +33,8 @@ Maak gebruik van bronverwijzingen bij claims die je maakt (vb. een stelling als 
 7. [Bill of materials](./docs/bom.md)
 8. [Kritische reflectie](./docs/reflectie.md)
 9. [Noot inzake het gebruik van AI](./docs/ai.md)
+10. [Bijlagen](./docs/bijlagen.md)
 
-## Bijlagen
-### Discovery
-* Literatuuronderzoek (N=x)   
-  * [Protocol](url)
-  * [Rapport](url)   
-* Interviews (N=x)   
-  * [Protocol](url)
-  * [Rapport](url)
-    
-### Definition
-* User testing wave 1 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* User testing wave 2 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
 
 ## Licentie
 > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
