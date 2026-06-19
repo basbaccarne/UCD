@@ -5,4 +5,4 @@ Licht in detail toe hoe je AI gebruikte in dit project, inclusief welke tools (g
 Licht ook toe wat de rol van de ontwerper was in relatie tot de gebruikte tools.
 Integreer een kritische reflectie in deze toelichting.
 
-[← Kritische Reflectie](reflectie.md) · [Terug naar hoofdpagina →](../README.md) 
+[← Kritische Reflectie](reflectie.md) · [Bijlagen →](bijlagen.md) 
