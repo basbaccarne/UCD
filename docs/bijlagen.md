@@ -22,4 +22,4 @@
   * [Protocol](url)
   * [Rapport](url)
 
-  [← Noot inzake het gebruik van AI](ai.md) · [Licentie →](../licentie.md) 
+  [← Noot inzake het gebruik van AI](ai.md) · [Licentie →](licentie.md) 
